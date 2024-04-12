@@ -1,0 +1,1001 @@
+Opp ID,Opp Name,Account Name,Region,Industry,Status,Priority,Win Probability,Order Value,Closing Date,Opportunity Type,Sales Lead Name,Product Name,Opportunity Phase
+OPP_1,Opportunity 1,Wayne Enterprises,North America,Technology,Closed Lost,Medium,24,29765,2023-2-5,New Business,Michael Jones,Marketing Cloud,Negotiation
+OPP_2,Opportunity 2,LexCorp,EMEA,Technology,New,Medium,82,48290,2024-1-21,Cross-sell,Jane Smith,Service Cloud,Qualification
+OPP_3,Opportunity 3,Acme Corp,APAC,Technology,Pending,Medium,55,31896,2023-11-26,Upsell,Michael Jones,Service Cloud,Qualification
+OPP_4,Opportunity 4,LexCorp,EMEA,Healthcare,New,High,50,66674,2024-12-26,Cross-sell,John Doe,Salesforce,Closed Lost
+OPP_5,Opportunity 5,Wayne Enterprises,South America,Healthcare,Pending,High,58,87012,2023-9-6,Upsell,John Doe,Marketing Cloud,Closed Lost
+OPP_6,Opportunity 6,Acme Corp,South America,Technology,Closed Won,High,61,90904,2024-3-23,Cross-sell,Jane Smith,Service Cloud,Qualification
+OPP_7,Opportunity 7,Litware Inc,South America,Finance,Closed Lost,High,77,51438,2024-6-23,Cross-sell,Michael Jones,Salesforce,Proposal/Quote
+OPP_8,Opportunity 8,LexCorp,EMEA,Healthcare,New,Medium,35,36498,2024-8-2,Upsell,Jane Smith,Salesforce,Closed Lost
+OPP_9,Opportunity 9,Litware Inc,APAC,Technology,Closed Won,Medium,73,96922,2023-4-8,Cross-sell,Jane Smith,Service Cloud,Proposal/Quote
+OPP_10,Opportunity 10,Acme Corp,APAC,Finance,Closed Won,Low,67,54624,2024-7-19,Upsell,Michael Jones,Service Cloud,Qualification
+OPP_11,Opportunity 11,Acme Corp,North America,Retail,Closed Lost,Medium,65,22122,2023-8-13,Upsell,Jane Smith,Marketing Cloud,Closed Lost
+OPP_12,Opportunity 12,Wayne Enterprises,EMEA,Finance,Closed Won,Medium,35,19047,2023-9-8,Upsell,John Doe,Service Cloud,Closed Lost
+OPP_13,Opportunity 13,LexCorp,South America,Healthcare,New,High,68,74925,2024-4-1,Upsell,John Doe,Service Cloud,Proposal/Quote
+OPP_14,Opportunity 14,LexCorp,APAC,Healthcare,Closed Won,Low,87,20360,2023-7-2,Cross-sell,Jane Smith,Marketing Cloud,Closed Lost
+OPP_15,Opportunity 15,Acme Corp,South America,Healthcare,Pending,Medium,64,19630,2023-3-3,Cross-sell,Jane Smith,Marketing Cloud,Negotiation
+OPP_16,Opportunity 16,LexCorp,South America,Technology,Closed Won,Low,33,43492,2024-1-19,New Business,John Doe,Salesforce,Negotiation
+OPP_17,Opportunity 17,LexCorp,EMEA,Finance,New,Medium,70,62381,2023-7-19,Cross-sell,John Doe,Marketing Cloud,Proposal/Quote
+OPP_18,Opportunity 18,Wayne Enterprises,South America,Finance,Closed Lost,Medium,72,47460,2023-10-24,Cross-sell,Jane Smith,Salesforce,Qualification
+OPP_19,Opportunity 19,Acme Corp,EMEA,Technology,New,Low,73,45991,2024-11-27,New Business,John Doe,Service Cloud,Proposal/Quote
+OPP_20,Opportunity 20,Litware Inc,APAC,Technology,Closed Lost,Low,34,43930,2023-8-23,Cross-sell,John Doe,Marketing Cloud,Closed Lost
+OPP_21,Opportunity 21,Litware Inc,South America,Retail,Pending,Low,39,45884,2024-10-1,Cross-sell,Jane Smith,Marketing Cloud,Closed Won
+OPP_22,Opportunity 22,LexCorp,South America,Technology,Pending,Medium,42,27267,2024-11-8,Upsell,Michael Jones,Salesforce,Qualification
+OPP_23,Opportunity 23,Acme Corp,EMEA,Healthcare,Pending,Low,64,53201,2023-11-2,Cross-sell,Jane Smith,Salesforce,Qualification
+OPP_24,Opportunity 24,Litware Inc,South America,Technology,Closed Won,Medium,30,57106,2024-5-21,Cross-sell,Jane Smith,Marketing Cloud,Closed Won
+OPP_25,Opportunity 25,Litware Inc,APAC,Healthcare,Closed Won,Medium,38,31864,2024-11-11,Cross-sell,Michael Jones,Salesforce,Qualification
+OPP_26,Opportunity 26,Acme Corp,North America,Finance,Closed Won,Low,86,32556,2023-3-18,Cross-sell,John Doe,Service Cloud,Closed Won
+OPP_27,Opportunity 27,Litware Inc,APAC,Healthcare,New,Medium,43,51737,2024-12-1,Upsell,Jane Smith,Salesforce,Closed Won
+OPP_28,Opportunity 28,Wayne Enterprises,EMEA,Technology,New,High,71,20272,2024-6-12,Upsell,John Doe,Marketing Cloud,Proposal/Quote
+OPP_29,Opportunity 29,Litware Inc,EMEA,Retail,Closed Lost,Medium,67,69604,2023-11-15,New Business,Jane Smith,Service Cloud,Proposal/Quote
+OPP_30,Opportunity 30,Wayne Enterprises,EMEA,Finance,Closed Won,High,24,40085,2023-3-14,Cross-sell,Jane Smith,Marketing Cloud,Qualification
+OPP_31,Opportunity 31,LexCorp,South America,Finance,New,Medium,27,65990,2023-10-15,Upsell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_32,Opportunity 32,Acme Corp,EMEA,Retail,Pending,Low,24,64301,2024-5-21,Upsell,John Doe,Salesforce,Closed Lost
+OPP_33,Opportunity 33,LexCorp,North America,Healthcare,New,Low,89,96793,2023-9-16,Cross-sell,Jane Smith,Salesforce,Closed Lost
+OPP_34,Opportunity 34,Wayne Enterprises,APAC,Technology,Closed Won,Medium,29,42709,2023-3-26,New Business,Jane Smith,Salesforce,Qualification
+OPP_35,Opportunity 35,Wayne Enterprises,North America,Healthcare,Closed Won,Low,41,16603,2024-3-3,Cross-sell,Michael Jones,Service Cloud,Proposal/Quote
+OPP_36,Opportunity 36,Wayne Enterprises,South America,Retail,Pending,Low,68,92118,2023-1-15,Cross-sell,Michael Jones,Service Cloud,Qualification
+OPP_37,Opportunity 37,LexCorp,APAC,Healthcare,Pending,Low,87,66264,2024-10-21,Upsell,Michael Jones,Marketing Cloud,Qualification
+OPP_38,Opportunity 38,Litware Inc,North America,Healthcare,New,Low,22,41042,2024-10-4,Cross-sell,Michael Jones,Marketing Cloud,Closed Won
+OPP_39,Opportunity 39,Acme Corp,EMEA,Finance,New,High,23,93297,2023-9-28,New Business,Jane Smith,Salesforce,Closed Lost
+OPP_40,Opportunity 40,Acme Corp,South America,Retail,Pending,High,88,49307,2023-3-7,Cross-sell,John Doe,Marketing Cloud,Closed Won
+OPP_41,Opportunity 41,LexCorp,North America,Retail,Closed Lost,Low,53,91880,2023-9-28,Upsell,Michael Jones,Marketing Cloud,Negotiation
+OPP_42,Opportunity 42,Wayne Enterprises,South America,Finance,Pending,Low,37,91514,2023-9-12,New Business,John Doe,Marketing Cloud,Qualification
+OPP_43,Opportunity 43,Wayne Enterprises,North America,Healthcare,New,Medium,60,33951,2024-8-5,Cross-sell,Michael Jones,Salesforce,Closed Won
+OPP_44,Opportunity 44,Litware Inc,EMEA,Healthcare,Closed Won,Low,34,74525,2023-6-11,Upsell,Michael Jones,Service Cloud,Closed Lost
+OPP_45,Opportunity 45,Litware Inc,EMEA,Finance,New,High,62,17359,2023-6-4,New Business,John Doe,Service Cloud,Closed Won
+OPP_46,Opportunity 46,Litware Inc,APAC,Finance,Closed Won,Medium,34,27487,2023-6-28,Upsell,Michael Jones,Service Cloud,Qualification
+OPP_47,Opportunity 47,Acme Corp,South America,Healthcare,Pending,Medium,69,34890,2023-12-3,New Business,Jane Smith,Salesforce,Closed Lost
+OPP_48,Opportunity 48,LexCorp,North America,Technology,New,Medium,49,1942,2024-10-19,New Business,John Doe,Service Cloud,Negotiation
+OPP_49,Opportunity 49,LexCorp,APAC,Healthcare,Closed Lost,Low,68,87774,2024-1-13,New Business,Michael Jones,Salesforce,Proposal/Quote
+OPP_50,Opportunity 50,Acme Corp,North America,Retail,Closed Won,High,27,70117,2023-2-17,New Business,Michael Jones,Service Cloud,Closed Lost
+OPP_51,Opportunity 51,Litware Inc,North America,Finance,Closed Lost,High,58,16015,2023-2-22,Cross-sell,Michael Jones,Salesforce,Negotiation
+OPP_52,Opportunity 52,Acme Corp,EMEA,Healthcare,Closed Lost,Low,43,31996,2024-9-27,Upsell,Jane Smith,Service Cloud,Closed Lost
+OPP_53,Opportunity 53,Acme Corp,North America,Healthcare,Closed Won,Medium,37,97384,2023-1-26,Cross-sell,Jane Smith,Salesforce,Negotiation
+OPP_54,Opportunity 54,Litware Inc,APAC,Technology,New,Medium,80,41931,2023-6-5,New Business,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_55,Opportunity 55,Acme Corp,North America,Technology,Closed Won,High,22,92048,2024-10-20,New Business,Jane Smith,Salesforce,Closed Lost
+OPP_56,Opportunity 56,Wayne Enterprises,APAC,Retail,New,Medium,41,37475,2023-12-13,Upsell,Michael Jones,Marketing Cloud,Qualification
+OPP_57,Opportunity 57,Wayne Enterprises,South America,Retail,New,Medium,70,26910,2024-12-11,New Business,Michael Jones,Service Cloud,Closed Lost
+OPP_58,Opportunity 58,Litware Inc,North America,Finance,New,Low,87,31572,2023-2-6,Upsell,Michael Jones,Service Cloud,Negotiation
+OPP_59,Opportunity 59,Acme Corp,EMEA,Finance,Pending,Low,46,83509,2023-7-6,New Business,Jane Smith,Marketing Cloud,Closed Lost
+OPP_60,Opportunity 60,Litware Inc,South America,Finance,New,Low,41,78656,2023-12-27,Upsell,John Doe,Marketing Cloud,Closed Lost
+OPP_61,Opportunity 61,Litware Inc,North America,Healthcare,Closed Lost,Medium,65,91075,2024-7-2,New Business,Jane Smith,Service Cloud,Closed Lost
+OPP_62,Opportunity 62,Wayne Enterprises,EMEA,Healthcare,Closed Lost,High,47,57896,2024-2-6,New Business,John Doe,Salesforce,Proposal/Quote
+OPP_63,Opportunity 63,Litware Inc,North America,Finance,Closed Won,Low,22,88137,2024-11-4,Upsell,Jane Smith,Service Cloud,Proposal/Quote
+OPP_64,Opportunity 64,Wayne Enterprises,APAC,Technology,Closed Lost,High,35,5269,2023-3-18,Upsell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_65,Opportunity 65,Wayne Enterprises,APAC,Healthcare,Pending,High,63,2099,2023-6-4,New Business,Michael Jones,Salesforce,Qualification
+OPP_66,Opportunity 66,Acme Corp,EMEA,Technology,New,Low,55,80767,2024-10-22,Upsell,Jane Smith,Marketing Cloud,Closed Lost
+OPP_67,Opportunity 67,Litware Inc,North America,Finance,Closed Lost,High,54,83135,2023-12-27,New Business,John Doe,Marketing Cloud,Proposal/Quote
+OPP_68,Opportunity 68,LexCorp,EMEA,Retail,Closed Lost,Medium,76,87205,2024-2-15,New Business,John Doe,Service Cloud,Closed Won
+OPP_69,Opportunity 69,Acme Corp,APAC,Technology,Closed Won,Low,39,81472,2024-12-18,Upsell,John Doe,Salesforce,Negotiation
+OPP_70,Opportunity 70,Wayne Enterprises,North America,Technology,Closed Won,High,42,49870,2024-11-24,Cross-sell,Michael Jones,Salesforce,Closed Won
+OPP_71,Opportunity 71,LexCorp,North America,Retail,Pending,Medium,24,73309,2023-7-23,New Business,Michael Jones,Salesforce,Qualification
+OPP_72,Opportunity 72,Litware Inc,EMEA,Finance,Closed Won,High,23,8265,2023-7-8,Cross-sell,Michael Jones,Marketing Cloud,Negotiation
+OPP_73,Opportunity 73,LexCorp,North America,Finance,Pending,High,69,72113,2024-8-3,New Business,John Doe,Marketing Cloud,Closed Won
+OPP_74,Opportunity 74,Acme Corp,APAC,Retail,Closed Won,High,56,84134,2023-10-15,Cross-sell,John Doe,Salesforce,Negotiation
+OPP_75,Opportunity 75,Litware Inc,North America,Technology,New,High,39,89649,2024-1-3,Cross-sell,Michael Jones,Service Cloud,Qualification
+OPP_76,Opportunity 76,Litware Inc,EMEA,Healthcare,Pending,Medium,56,31735,2023-7-28,Upsell,Michael Jones,Salesforce,Negotiation
+OPP_77,Opportunity 77,Wayne Enterprises,South America,Finance,New,Medium,52,53107,2023-9-11,New Business,Michael Jones,Salesforce,Closed Won
+OPP_78,Opportunity 78,Litware Inc,APAC,Technology,Closed Won,Low,62,42495,2023-7-10,New Business,John Doe,Marketing Cloud,Closed Won
+OPP_79,Opportunity 79,Acme Corp,South America,Finance,Closed Won,Low,73,30594,2023-1-21,New Business,Michael Jones,Salesforce,Closed Lost
+OPP_80,Opportunity 80,Litware Inc,EMEA,Healthcare,New,Medium,83,3346,2023-3-23,Upsell,John Doe,Salesforce,Closed Lost
+OPP_81,Opportunity 81,LexCorp,South America,Technology,Pending,Low,45,6831,2023-5-11,New Business,Jane Smith,Salesforce,Closed Lost
+OPP_82,Opportunity 82,Acme Corp,APAC,Healthcare,Closed Won,Low,22,58034,2024-5-5,Upsell,John Doe,Service Cloud,Proposal/Quote
+OPP_83,Opportunity 83,Litware Inc,EMEA,Retail,Closed Won,Medium,62,85904,2023-5-8,New Business,Jane Smith,Service Cloud,Proposal/Quote
+OPP_84,Opportunity 84,Litware Inc,APAC,Retail,New,Medium,83,74521,2024-12-18,Upsell,Michael Jones,Salesforce,Proposal/Quote
+OPP_85,Opportunity 85,LexCorp,EMEA,Technology,Pending,High,47,73384,2023-3-14,Upsell,Jane Smith,Marketing Cloud,Qualification
+OPP_86,Opportunity 86,Wayne Enterprises,APAC,Technology,New,Medium,83,10777,2023-10-9,Cross-sell,Jane Smith,Service Cloud,Closed Won
+OPP_87,Opportunity 87,Acme Corp,APAC,Healthcare,New,Medium,63,70000,2023-4-16,Cross-sell,Michael Jones,Marketing Cloud,Qualification
+OPP_88,Opportunity 88,Litware Inc,APAC,Technology,Pending,Low,40,31714,2023-7-8,Cross-sell,Michael Jones,Service Cloud,Closed Won
+OPP_89,Opportunity 89,LexCorp,EMEA,Retail,Pending,High,31,4411,2024-11-7,Upsell,John Doe,Marketing Cloud,Closed Lost
+OPP_90,Opportunity 90,LexCorp,APAC,Finance,Closed Lost,Medium,86,42777,2024-7-1,New Business,Jane Smith,Salesforce,Negotiation
+OPP_91,Opportunity 91,Wayne Enterprises,North America,Technology,Pending,Medium,84,41254,2024-4-20,New Business,Michael Jones,Service Cloud,Closed Won
+OPP_92,Opportunity 92,Wayne Enterprises,North America,Finance,Closed Lost,Low,68,60462,2023-3-23,Cross-sell,Michael Jones,Salesforce,Proposal/Quote
+OPP_93,Opportunity 93,Acme Corp,EMEA,Retail,Pending,Low,89,9690,2024-7-3,Cross-sell,Michael Jones,Marketing Cloud,Closed Won
+OPP_94,Opportunity 94,LexCorp,APAC,Healthcare,Pending,Low,41,98409,2023-11-9,New Business,John Doe,Salesforce,Proposal/Quote
+OPP_95,Opportunity 95,Acme Corp,North America,Retail,Closed Won,Low,86,82826,2023-10-14,Cross-sell,Michael Jones,Salesforce,Closed Lost
+OPP_96,Opportunity 96,Litware Inc,South America,Healthcare,Closed Lost,Medium,29,59158,2023-8-10,Upsell,John Doe,Service Cloud,Proposal/Quote
+OPP_97,Opportunity 97,Acme Corp,South America,Retail,Closed Won,Medium,79,24703,2023-1-28,New Business,Michael Jones,Service Cloud,Closed Lost
+OPP_98,Opportunity 98,Litware Inc,South America,Healthcare,Closed Won,High,25,48265,2023-5-27,New Business,Michael Jones,Marketing Cloud,Negotiation
+OPP_99,Opportunity 99,Wayne Enterprises,APAC,Healthcare,Closed Won,Medium,55,60604,2024-5-2,New Business,Michael Jones,Salesforce,Qualification
+OPP_100,Opportunity 100,Litware Inc,North America,Healthcare,Closed Lost,Low,79,90169,2023-9-22,Cross-sell,Jane Smith,Salesforce,Negotiation
+OPP_101,Opportunity 101,Litware Inc,APAC,Retail,New,High,48,7951,2024-4-24,Upsell,Jane Smith,Salesforce,Closed Lost
+OPP_102,Opportunity 102,Acme Corp,North America,Retail,Closed Won,Medium,29,24234,2024-6-28,Cross-sell,Jane Smith,Salesforce,Closed Won
+OPP_103,Opportunity 103,LexCorp,North America,Technology,Closed Won,Low,74,26429,2023-2-4,New Business,John Doe,Service Cloud,Negotiation
+OPP_104,Opportunity 104,Wayne Enterprises,South America,Healthcare,Closed Won,Medium,51,18912,2023-2-8,Upsell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_105,Opportunity 105,Wayne Enterprises,EMEA,Healthcare,New,Low,56,1718,2023-9-5,New Business,Michael Jones,Marketing Cloud,Closed Lost
+OPP_106,Opportunity 106,Litware Inc,EMEA,Retail,Pending,Medium,41,65971,2024-10-22,Cross-sell,John Doe,Salesforce,Closed Won
+OPP_107,Opportunity 107,Wayne Enterprises,APAC,Finance,Closed Won,Low,80,2932,2024-1-1,New Business,John Doe,Service Cloud,Closed Lost
+OPP_108,Opportunity 108,Litware Inc,North America,Healthcare,Closed Won,Low,79,64916,2024-4-24,Upsell,Jane Smith,Marketing Cloud,Qualification
+OPP_109,Opportunity 109,Wayne Enterprises,North America,Retail,Closed Lost,High,48,3524,2024-8-10,New Business,John Doe,Marketing Cloud,Negotiation
+OPP_110,Opportunity 110,Litware Inc,APAC,Finance,Pending,Medium,48,61346,2023-8-20,New Business,John Doe,Service Cloud,Closed Lost
+OPP_111,Opportunity 111,LexCorp,APAC,Healthcare,Pending,Medium,23,12936,2024-4-2,Upsell,Jane Smith,Service Cloud,Closed Won
+OPP_112,Opportunity 112,Litware Inc,EMEA,Finance,Pending,High,44,56173,2023-11-22,New Business,Michael Jones,Service Cloud,Negotiation
+OPP_113,Opportunity 113,Acme Corp,North America,Retail,Closed Won,High,61,74209,2024-11-7,Cross-sell,Michael Jones,Salesforce,Closed Lost
+OPP_114,Opportunity 114,LexCorp,South America,Retail,Closed Won,High,20,66047,2024-5-9,Cross-sell,Jane Smith,Service Cloud,Proposal/Quote
+OPP_115,Opportunity 115,Litware Inc,EMEA,Healthcare,Pending,Medium,69,92906,2023-1-26,New Business,Jane Smith,Marketing Cloud,Closed Lost
+OPP_116,Opportunity 116,LexCorp,South America,Healthcare,Pending,Medium,50,80239,2024-4-13,Cross-sell,Michael Jones,Salesforce,Closed Won
+OPP_117,Opportunity 117,Wayne Enterprises,APAC,Technology,New,Low,29,53679,2023-10-8,Upsell,John Doe,Salesforce,Proposal/Quote
+OPP_118,Opportunity 118,Litware Inc,APAC,Healthcare,Closed Lost,Medium,26,41123,2023-12-27,New Business,Jane Smith,Service Cloud,Closed Lost
+OPP_119,Opportunity 119,Wayne Enterprises,EMEA,Healthcare,New,High,50,55777,2024-3-1,Cross-sell,Jane Smith,Salesforce,Negotiation
+OPP_120,Opportunity 120,Litware Inc,EMEA,Finance,Closed Won,High,41,34829,2024-11-17,New Business,Jane Smith,Salesforce,Closed Won
+OPP_121,Opportunity 121,LexCorp,North America,Healthcare,Closed Lost,Low,34,10952,2023-5-1,Cross-sell,Michael Jones,Service Cloud,Negotiation
+OPP_122,Opportunity 122,Acme Corp,South America,Technology,Pending,Low,31,74283,2024-10-24,Upsell,Jane Smith,Salesforce,Negotiation
+OPP_123,Opportunity 123,Wayne Enterprises,North America,Retail,Closed Won,High,77,91801,2024-12-20,New Business,Michael Jones,Marketing Cloud,Closed Lost
+OPP_124,Opportunity 124,Litware Inc,North America,Retail,New,High,86,83822,2023-2-1,Cross-sell,John Doe,Salesforce,Closed Won
+OPP_125,Opportunity 125,Wayne Enterprises,EMEA,Healthcare,Closed Won,High,42,55298,2024-6-6,Upsell,Michael Jones,Service Cloud,Proposal/Quote
+OPP_126,Opportunity 126,Litware Inc,South America,Technology,Closed Lost,Low,84,86279,2023-11-22,Upsell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_127,Opportunity 127,LexCorp,APAC,Retail,Pending,Medium,89,97926,2024-8-4,New Business,Michael Jones,Salesforce,Closed Lost
+OPP_128,Opportunity 128,Acme Corp,South America,Finance,New,High,54,35112,2024-4-4,Upsell,John Doe,Service Cloud,Proposal/Quote
+OPP_129,Opportunity 129,Litware Inc,South America,Technology,Closed Lost,High,72,32015,2024-4-18,Upsell,Michael Jones,Service Cloud,Negotiation
+OPP_130,Opportunity 130,Wayne Enterprises,APAC,Technology,New,Medium,30,53279,2023-7-20,New Business,Jane Smith,Marketing Cloud,Negotiation
+OPP_131,Opportunity 131,Litware Inc,North America,Technology,Closed Lost,Medium,60,18653,2024-9-28,Upsell,Jane Smith,Marketing Cloud,Qualification
+OPP_132,Opportunity 132,LexCorp,South America,Technology,New,Medium,35,80216,2023-8-2,Cross-sell,Jane Smith,Salesforce,Qualification
+OPP_133,Opportunity 133,Acme Corp,APAC,Finance,New,Medium,30,88336,2024-10-10,Cross-sell,John Doe,Marketing Cloud,Proposal/Quote
+OPP_134,Opportunity 134,Wayne Enterprises,APAC,Technology,Closed Lost,High,74,34036,2024-1-20,Upsell,Jane Smith,Service Cloud,Negotiation
+OPP_135,Opportunity 135,Litware Inc,South America,Retail,Closed Won,Medium,55,19427,2024-12-27,New Business,Michael Jones,Salesforce,Closed Lost
+OPP_136,Opportunity 136,Wayne Enterprises,North America,Healthcare,Closed Lost,High,69,79719,2023-10-17,Upsell,Jane Smith,Service Cloud,Negotiation
+OPP_137,Opportunity 137,LexCorp,APAC,Healthcare,Closed Lost,High,29,88019,2023-12-9,Upsell,John Doe,Service Cloud,Qualification
+OPP_138,Opportunity 138,Litware Inc,South America,Healthcare,New,Low,87,18976,2024-9-5,New Business,Jane Smith,Marketing Cloud,Negotiation
+OPP_139,Opportunity 139,Acme Corp,EMEA,Retail,Closed Lost,High,60,57330,2024-4-20,Upsell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_140,Opportunity 140,Litware Inc,EMEA,Healthcare,Closed Won,Low,81,78294,2023-10-26,Cross-sell,Michael Jones,Salesforce,Closed Lost
+OPP_141,Opportunity 141,Litware Inc,North America,Technology,Pending,Low,35,56452,2023-6-15,Cross-sell,Michael Jones,Salesforce,Negotiation
+OPP_142,Opportunity 142,Acme Corp,North America,Technology,Pending,Low,69,72057,2023-12-9,Upsell,Jane Smith,Service Cloud,Closed Won
+OPP_143,Opportunity 143,LexCorp,South America,Retail,Pending,Low,59,19850,2024-8-23,Upsell,Jane Smith,Service Cloud,Qualification
+OPP_144,Opportunity 144,Acme Corp,APAC,Retail,New,High,84,79202,2023-7-20,New Business,Jane Smith,Service Cloud,Qualification
+OPP_145,Opportunity 145,Acme Corp,APAC,Finance,Closed Lost,Low,47,71645,2023-2-24,Upsell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_146,Opportunity 146,Acme Corp,North America,Healthcare,Closed Won,Medium,54,21310,2023-12-22,New Business,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_147,Opportunity 147,LexCorp,APAC,Finance,Pending,Low,73,78900,2023-6-27,Upsell,Jane Smith,Salesforce,Negotiation
+OPP_148,Opportunity 148,Wayne Enterprises,South America,Healthcare,Closed Lost,High,83,25350,2023-1-20,Cross-sell,Jane Smith,Service Cloud,Closed Lost
+OPP_149,Opportunity 149,LexCorp,APAC,Finance,Closed Won,High,75,35778,2024-11-11,Upsell,Michael Jones,Salesforce,Proposal/Quote
+OPP_150,Opportunity 150,Acme Corp,APAC,Healthcare,New,Low,57,89076,2023-3-25,New Business,Jane Smith,Salesforce,Negotiation
+OPP_151,Opportunity 151,LexCorp,North America,Healthcare,Pending,Medium,20,81378,2024-9-26,Upsell,John Doe,Salesforce,Closed Won
+OPP_152,Opportunity 152,Acme Corp,North America,Retail,Closed Lost,Low,32,23499,2023-7-16,Cross-sell,Jane Smith,Service Cloud,Negotiation
+OPP_153,Opportunity 153,LexCorp,South America,Technology,Closed Won,Medium,35,27889,2023-11-11,New Business,Michael Jones,Service Cloud,Closed Lost
+OPP_154,Opportunity 154,Litware Inc,APAC,Healthcare,Closed Lost,Low,26,93070,2024-1-19,New Business,Michael Jones,Marketing Cloud,Closed Won
+OPP_155,Opportunity 155,LexCorp,North America,Technology,Closed Lost,Low,35,50243,2023-12-8,New Business,John Doe,Marketing Cloud,Closed Won
+OPP_156,Opportunity 156,Litware Inc,APAC,Finance,Pending,High,72,84897,2023-7-18,Upsell,Jane Smith,Service Cloud,Qualification
+OPP_157,Opportunity 157,LexCorp,South America,Finance,Closed Lost,High,68,17280,2023-5-19,Upsell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_158,Opportunity 158,Wayne Enterprises,South America,Finance,Closed Won,Low,69,81201,2024-5-27,Upsell,Michael Jones,Salesforce,Closed Won
+OPP_159,Opportunity 159,Litware Inc,APAC,Healthcare,Pending,Low,46,99085,2024-3-12,Cross-sell,Jane Smith,Marketing Cloud,Negotiation
+OPP_160,Opportunity 160,Litware Inc,North America,Retail,Closed Won,Low,47,77564,2023-4-2,New Business,Michael Jones,Service Cloud,Closed Lost
+OPP_161,Opportunity 161,Acme Corp,South America,Technology,Pending,Low,22,4904,2023-9-5,Cross-sell,John Doe,Service Cloud,Proposal/Quote
+OPP_162,Opportunity 162,Litware Inc,EMEA,Finance,New,High,90,93153,2024-4-24,Cross-sell,Michael Jones,Service Cloud,Negotiation
+OPP_163,Opportunity 163,Litware Inc,South America,Technology,Closed Lost,Medium,30,70867,2023-2-4,Upsell,John Doe,Salesforce,Qualification
+OPP_164,Opportunity 164,Wayne Enterprises,APAC,Finance,Pending,Medium,65,93569,2023-12-5,New Business,Jane Smith,Salesforce,Closed Lost
+OPP_165,Opportunity 165,Acme Corp,APAC,Healthcare,Pending,High,47,99565,2023-6-23,Cross-sell,Michael Jones,Salesforce,Closed Won
+OPP_166,Opportunity 166,LexCorp,North America,Technology,Closed Won,High,77,29993,2023-2-1,New Business,Jane Smith,Salesforce,Closed Won
+OPP_167,Opportunity 167,Wayne Enterprises,South America,Finance,Closed Lost,Medium,48,87043,2024-12-12,Cross-sell,John Doe,Salesforce,Closed Lost
+OPP_168,Opportunity 168,LexCorp,APAC,Technology,Closed Lost,High,80,5656,2023-7-12,New Business,John Doe,Marketing Cloud,Qualification
+OPP_169,Opportunity 169,Litware Inc,EMEA,Retail,Closed Won,High,23,73804,2024-1-7,Cross-sell,John Doe,Service Cloud,Proposal/Quote
+OPP_170,Opportunity 170,Acme Corp,APAC,Retail,New,High,88,29491,2024-1-25,Upsell,John Doe,Marketing Cloud,Negotiation
+OPP_171,Opportunity 171,Wayne Enterprises,APAC,Finance,New,High,35,26101,2023-12-18,New Business,Jane Smith,Service Cloud,Closed Won
+OPP_172,Opportunity 172,Wayne Enterprises,EMEA,Finance,Closed Won,Medium,36,34993,2023-7-12,Upsell,Michael Jones,Marketing Cloud,Negotiation
+OPP_173,Opportunity 173,Litware Inc,APAC,Retail,New,Medium,39,76803,2024-5-11,New Business,Jane Smith,Service Cloud,Closed Lost
+OPP_174,Opportunity 174,Acme Corp,North America,Technology,Pending,High,23,86958,2024-6-21,Cross-sell,Jane Smith,Marketing Cloud,Qualification
+OPP_175,Opportunity 175,Litware Inc,EMEA,Healthcare,Closed Lost,Medium,42,74375,2024-4-23,Upsell,Jane Smith,Salesforce,Negotiation
+OPP_176,Opportunity 176,LexCorp,EMEA,Technology,Closed Lost,Low,23,50958,2024-5-25,New Business,Michael Jones,Service Cloud,Negotiation
+OPP_177,Opportunity 177,Wayne Enterprises,EMEA,Technology,Pending,Medium,69,46719,2024-6-23,Upsell,John Doe,Service Cloud,Negotiation
+OPP_178,Opportunity 178,Wayne Enterprises,South America,Retail,New,High,64,27941,2024-1-1,Upsell,Michael Jones,Marketing Cloud,Qualification
+OPP_179,Opportunity 179,Litware Inc,APAC,Finance,Closed Lost,High,45,91271,2024-4-13,Upsell,John Doe,Salesforce,Closed Lost
+OPP_180,Opportunity 180,Litware Inc,North America,Retail,New,Medium,28,37775,2024-10-10,Cross-sell,John Doe,Marketing Cloud,Qualification
+OPP_181,Opportunity 181,Wayne Enterprises,South America,Finance,Closed Won,Low,84,77056,2023-4-4,Cross-sell,Michael Jones,Service Cloud,Closed Won
+OPP_182,Opportunity 182,Acme Corp,EMEA,Retail,Closed Lost,Low,61,80387,2024-5-27,New Business,Michael Jones,Marketing Cloud,Negotiation
+OPP_183,Opportunity 183,Litware Inc,EMEA,Technology,New,Medium,21,20700,2023-5-8,Upsell,Jane Smith,Salesforce,Negotiation
+OPP_184,Opportunity 184,LexCorp,North America,Healthcare,Pending,Low,67,82309,2023-9-1,Upsell,John Doe,Marketing Cloud,Closed Won
+OPP_185,Opportunity 185,Litware Inc,APAC,Finance,Pending,Medium,31,2285,2023-12-5,Upsell,John Doe,Marketing Cloud,Closed Lost
+OPP_186,Opportunity 186,LexCorp,EMEA,Technology,Closed Lost,Low,76,4975,2023-12-28,Upsell,Jane Smith,Service Cloud,Closed Won
+OPP_187,Opportunity 187,Acme Corp,South America,Technology,Pending,High,37,84350,2023-7-9,Cross-sell,Michael Jones,Service Cloud,Closed Lost
+OPP_188,Opportunity 188,Litware Inc,North America,Technology,Closed Won,Medium,20,3598,2023-8-26,Cross-sell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_189,Opportunity 189,Litware Inc,EMEA,Finance,Closed Lost,Medium,39,19868,2023-6-23,Cross-sell,Jane Smith,Salesforce,Proposal/Quote
+OPP_190,Opportunity 190,LexCorp,North America,Retail,Closed Won,Medium,57,73988,2023-1-22,Cross-sell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_191,Opportunity 191,Acme Corp,South America,Technology,New,Medium,32,69729,2023-8-5,New Business,Jane Smith,Service Cloud,Proposal/Quote
+OPP_192,Opportunity 192,Litware Inc,EMEA,Technology,Closed Won,Medium,54,99600,2024-9-17,Upsell,John Doe,Service Cloud,Negotiation
+OPP_193,Opportunity 193,Acme Corp,South America,Retail,Closed Lost,Low,25,54426,2024-9-23,Upsell,John Doe,Salesforce,Negotiation
+OPP_194,Opportunity 194,Litware Inc,South America,Finance,Closed Lost,Medium,69,98572,2024-12-9,Upsell,John Doe,Service Cloud,Negotiation
+OPP_195,Opportunity 195,Acme Corp,North America,Technology,Pending,Medium,32,54576,2023-6-9,New Business,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_196,Opportunity 196,Wayne Enterprises,South America,Retail,Closed Lost,Medium,83,75459,2024-11-21,Upsell,Michael Jones,Salesforce,Qualification
+OPP_197,Opportunity 197,LexCorp,EMEA,Healthcare,Pending,Medium,59,31549,2024-7-10,New Business,Michael Jones,Service Cloud,Closed Won
+OPP_198,Opportunity 198,Acme Corp,EMEA,Technology,New,Low,83,39573,2024-6-5,New Business,Jane Smith,Service Cloud,Proposal/Quote
+OPP_199,Opportunity 199,Wayne Enterprises,North America,Finance,New,Low,44,74423,2024-6-25,New Business,Michael Jones,Salesforce,Negotiation
+OPP_200,Opportunity 200,LexCorp,South America,Retail,Closed Lost,Low,46,3639,2024-10-26,Upsell,Jane Smith,Salesforce,Proposal/Quote
+OPP_201,Opportunity 201,Wayne Enterprises,EMEA,Retail,Closed Lost,High,39,15803,2024-6-9,Upsell,Michael Jones,Service Cloud,Closed Lost
+OPP_202,Opportunity 202,Litware Inc,South America,Healthcare,Closed Won,Low,28,33585,2024-11-22,Upsell,John Doe,Salesforce,Qualification
+OPP_203,Opportunity 203,Litware Inc,South America,Finance,Closed Lost,Low,90,57845,2024-8-22,New Business,John Doe,Service Cloud,Proposal/Quote
+OPP_204,Opportunity 204,LexCorp,North America,Retail,New,High,88,7876,2023-3-13,Cross-sell,John Doe,Service Cloud,Proposal/Quote
+OPP_205,Opportunity 205,Wayne Enterprises,APAC,Finance,Closed Lost,Medium,64,44268,2024-1-28,Upsell,Michael Jones,Salesforce,Closed Lost
+OPP_206,Opportunity 206,LexCorp,North America,Retail,Closed Lost,Medium,80,70424,2023-2-26,Cross-sell,John Doe,Salesforce,Closed Lost
+OPP_207,Opportunity 207,LexCorp,North America,Technology,Closed Won,Medium,31,88925,2024-7-10,Cross-sell,Jane Smith,Service Cloud,Qualification
+OPP_208,Opportunity 208,LexCorp,EMEA,Retail,Closed Won,Low,82,56606,2024-7-23,Cross-sell,John Doe,Marketing Cloud,Closed Won
+OPP_209,Opportunity 209,Litware Inc,South America,Finance,Pending,High,46,29660,2024-11-9,Cross-sell,John Doe,Marketing Cloud,Qualification
+OPP_210,Opportunity 210,LexCorp,South America,Healthcare,Closed Lost,High,44,44591,2023-1-10,Upsell,Jane Smith,Salesforce,Closed Won
+OPP_211,Opportunity 211,LexCorp,South America,Finance,Closed Lost,Medium,37,23143,2024-8-10,Upsell,John Doe,Salesforce,Proposal/Quote
+OPP_212,Opportunity 212,LexCorp,APAC,Finance,Closed Lost,Medium,30,16951,2024-6-4,Upsell,Michael Jones,Salesforce,Proposal/Quote
+OPP_213,Opportunity 213,Acme Corp,South America,Finance,Closed Won,Low,41,62978,2024-1-5,Cross-sell,John Doe,Salesforce,Closed Lost
+OPP_214,Opportunity 214,Wayne Enterprises,APAC,Healthcare,New,High,36,54812,2023-1-20,Upsell,Michael Jones,Marketing Cloud,Negotiation
+OPP_215,Opportunity 215,Wayne Enterprises,North America,Finance,Closed Lost,High,77,14097,2023-7-25,New Business,John Doe,Service Cloud,Closed Won
+OPP_216,Opportunity 216,Acme Corp,EMEA,Retail,Closed Lost,Low,46,55509,2024-1-14,Cross-sell,John Doe,Salesforce,Closed Lost
+OPP_217,Opportunity 217,Litware Inc,North America,Retail,New,Low,65,44056,2023-3-9,Cross-sell,John Doe,Salesforce,Closed Lost
+OPP_218,Opportunity 218,Acme Corp,APAC,Retail,Pending,Low,45,82557,2023-8-1,New Business,Jane Smith,Salesforce,Closed Won
+OPP_219,Opportunity 219,Acme Corp,EMEA,Retail,Closed Won,Low,66,71241,2023-3-22,Cross-sell,John Doe,Marketing Cloud,Proposal/Quote
+OPP_220,Opportunity 220,Wayne Enterprises,EMEA,Retail,Closed Won,High,40,16886,2024-12-12,Upsell,John Doe,Service Cloud,Negotiation
+OPP_221,Opportunity 221,LexCorp,EMEA,Healthcare,Closed Won,Low,59,29153,2024-3-20,Cross-sell,John Doe,Marketing Cloud,Closed Won
+OPP_222,Opportunity 222,Litware Inc,South America,Technology,Pending,High,53,13858,2024-2-5,New Business,John Doe,Marketing Cloud,Qualification
+OPP_223,Opportunity 223,Litware Inc,South America,Retail,Closed Won,Medium,53,25861,2024-12-18,Cross-sell,John Doe,Marketing Cloud,Negotiation
+OPP_224,Opportunity 224,Acme Corp,APAC,Retail,Pending,High,64,75298,2024-12-6,New Business,Jane Smith,Service Cloud,Qualification
+OPP_225,Opportunity 225,LexCorp,North America,Retail,Closed Lost,Low,75,25479,2023-5-24,New Business,John Doe,Service Cloud,Proposal/Quote
+OPP_226,Opportunity 226,LexCorp,EMEA,Finance,Closed Lost,Low,46,74185,2024-7-4,Cross-sell,Jane Smith,Service Cloud,Closed Lost
+OPP_227,Opportunity 227,LexCorp,South America,Healthcare,Closed Lost,Medium,62,44861,2023-11-11,Upsell,Jane Smith,Marketing Cloud,Closed Lost
+OPP_228,Opportunity 228,Acme Corp,South America,Technology,Closed Lost,Medium,81,5793,2023-9-8,New Business,Michael Jones,Service Cloud,Proposal/Quote
+OPP_229,Opportunity 229,Wayne Enterprises,North America,Healthcare,New,Low,30,24882,2023-9-6,Upsell,Jane Smith,Marketing Cloud,Closed Won
+OPP_230,Opportunity 230,Acme Corp,APAC,Technology,Closed Lost,Medium,63,61116,2024-9-4,New Business,John Doe,Marketing Cloud,Proposal/Quote
+OPP_231,Opportunity 231,Litware Inc,EMEA,Healthcare,Closed Lost,High,72,13093,2024-4-1,Cross-sell,Jane Smith,Service Cloud,Negotiation
+OPP_232,Opportunity 232,Wayne Enterprises,South America,Retail,Closed Lost,High,69,42186,2023-10-7,Upsell,Jane Smith,Marketing Cloud,Closed Won
+OPP_233,Opportunity 233,Acme Corp,South America,Healthcare,New,Low,34,51357,2024-3-4,Upsell,Jane Smith,Salesforce,Negotiation
+OPP_234,Opportunity 234,Acme Corp,EMEA,Healthcare,Pending,Medium,22,71585,2023-8-5,Cross-sell,John Doe,Service Cloud,Negotiation
+OPP_235,Opportunity 235,Wayne Enterprises,EMEA,Retail,New,Low,66,79974,2023-6-3,New Business,Jane Smith,Marketing Cloud,Qualification
+OPP_236,Opportunity 236,Litware Inc,EMEA,Retail,Closed Lost,Medium,61,84892,2024-7-27,Cross-sell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_237,Opportunity 237,LexCorp,North America,Healthcare,Pending,Medium,60,5672,2024-6-19,New Business,Jane Smith,Salesforce,Proposal/Quote
+OPP_238,Opportunity 238,Wayne Enterprises,APAC,Healthcare,Pending,Medium,37,49146,2024-2-28,New Business,John Doe,Service Cloud,Closed Won
+OPP_239,Opportunity 239,Acme Corp,APAC,Retail,Closed Won,Low,51,36215,2023-2-27,New Business,Jane Smith,Service Cloud,Closed Won
+OPP_240,Opportunity 240,Wayne Enterprises,South America,Retail,Closed Won,High,38,44010,2024-5-15,Cross-sell,Michael Jones,Service Cloud,Negotiation
+OPP_241,Opportunity 241,Litware Inc,APAC,Technology,New,Low,48,95553,2023-1-4,Upsell,Michael Jones,Salesforce,Qualification
+OPP_242,Opportunity 242,LexCorp,North America,Retail,Pending,Low,83,37935,2024-11-9,Cross-sell,John Doe,Salesforce,Negotiation
+OPP_243,Opportunity 243,Wayne Enterprises,EMEA,Finance,Closed Won,High,61,85291,2023-10-3,Cross-sell,Jane Smith,Salesforce,Negotiation
+OPP_244,Opportunity 244,Acme Corp,APAC,Finance,Pending,Low,80,10203,2024-6-3,Cross-sell,Jane Smith,Salesforce,Negotiation
+OPP_245,Opportunity 245,LexCorp,South America,Retail,Pending,Low,28,24252,2023-2-13,Cross-sell,Jane Smith,Marketing Cloud,Closed Won
+OPP_246,Opportunity 246,Acme Corp,APAC,Healthcare,Closed Won,Medium,57,7144,2023-10-11,Upsell,Jane Smith,Service Cloud,Proposal/Quote
+OPP_247,Opportunity 247,LexCorp,North America,Healthcare,Closed Won,High,34,72605,2024-12-7,Upsell,Michael Jones,Salesforce,Closed Won
+OPP_248,Opportunity 248,Litware Inc,South America,Healthcare,Pending,High,74,90037,2024-2-20,Upsell,Jane Smith,Service Cloud,Closed Won
+OPP_249,Opportunity 249,Wayne Enterprises,APAC,Healthcare,New,Low,81,50089,2024-5-16,Upsell,Michael Jones,Salesforce,Qualification
+OPP_250,Opportunity 250,Litware Inc,South America,Retail,Closed Won,Medium,50,19948,2023-2-25,New Business,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_251,Opportunity 251,Litware Inc,EMEA,Retail,Pending,Low,81,68078,2024-11-3,Cross-sell,Jane Smith,Salesforce,Closed Lost
+OPP_252,Opportunity 252,LexCorp,EMEA,Healthcare,Pending,High,71,18081,2024-10-2,Cross-sell,Jane Smith,Service Cloud,Closed Won
+OPP_253,Opportunity 253,Litware Inc,South America,Retail,Closed Lost,Low,52,85782,2023-2-27,New Business,Jane Smith,Salesforce,Negotiation
+OPP_254,Opportunity 254,Litware Inc,North America,Technology,Pending,Low,22,1884,2023-6-26,New Business,John Doe,Salesforce,Qualification
+OPP_255,Opportunity 255,Litware Inc,North America,Technology,Closed Lost,Low,64,90418,2023-3-22,New Business,Jane Smith,Salesforce,Closed Won
+OPP_256,Opportunity 256,Wayne Enterprises,EMEA,Finance,Closed Won,Low,77,56316,2024-7-27,Upsell,Michael Jones,Salesforce,Proposal/Quote
+OPP_257,Opportunity 257,LexCorp,EMEA,Technology,Pending,Low,48,67601,2024-8-3,New Business,Jane Smith,Salesforce,Closed Won
+OPP_258,Opportunity 258,Litware Inc,EMEA,Healthcare,New,Medium,87,58331,2023-4-6,Upsell,Michael Jones,Marketing Cloud,Closed Won
+OPP_259,Opportunity 259,Acme Corp,EMEA,Finance,Closed Won,Medium,72,63885,2023-1-27,Cross-sell,John Doe,Service Cloud,Closed Won
+OPP_260,Opportunity 260,LexCorp,APAC,Finance,Closed Won,Medium,79,82314,2023-11-28,Cross-sell,Jane Smith,Marketing Cloud,Negotiation
+OPP_261,Opportunity 261,Acme Corp,North America,Finance,Pending,High,30,70289,2023-5-16,Upsell,Jane Smith,Marketing Cloud,Negotiation
+OPP_262,Opportunity 262,LexCorp,South America,Retail,Closed Won,High,51,94491,2023-7-15,Cross-sell,Michael Jones,Service Cloud,Closed Won
+OPP_263,Opportunity 263,LexCorp,South America,Healthcare,Closed Won,High,52,87860,2024-5-20,New Business,John Doe,Marketing Cloud,Qualification
+OPP_264,Opportunity 264,Wayne Enterprises,South America,Technology,Closed Won,Low,56,90982,2024-10-25,New Business,Michael Jones,Service Cloud,Closed Won
+OPP_265,Opportunity 265,Litware Inc,APAC,Healthcare,Pending,High,46,75468,2024-3-6,Upsell,Michael Jones,Salesforce,Negotiation
+OPP_266,Opportunity 266,Litware Inc,EMEA,Healthcare,Closed Lost,Low,43,90240,2023-3-12,New Business,Michael Jones,Salesforce,Proposal/Quote
+OPP_267,Opportunity 267,Wayne Enterprises,North America,Retail,Pending,High,57,39838,2023-10-14,Upsell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_268,Opportunity 268,Acme Corp,North America,Technology,Closed Lost,Medium,61,89781,2024-1-3,New Business,Michael Jones,Salesforce,Closed Lost
+OPP_269,Opportunity 269,Wayne Enterprises,North America,Retail,New,High,56,55504,2023-9-6,Cross-sell,Michael Jones,Salesforce,Qualification
+OPP_270,Opportunity 270,Acme Corp,South America,Healthcare,Pending,Low,90,10130,2024-8-26,New Business,John Doe,Service Cloud,Qualification
+OPP_271,Opportunity 271,Wayne Enterprises,APAC,Technology,Pending,High,37,40824,2024-10-12,Cross-sell,Michael Jones,Marketing Cloud,Closed Won
+OPP_272,Opportunity 272,LexCorp,North America,Finance,New,High,64,88284,2024-9-11,New Business,John Doe,Service Cloud,Proposal/Quote
+OPP_273,Opportunity 273,Acme Corp,APAC,Healthcare,Closed Lost,High,89,44937,2023-7-28,New Business,Michael Jones,Service Cloud,Proposal/Quote
+OPP_274,Opportunity 274,LexCorp,APAC,Healthcare,Closed Lost,High,66,3658,2023-8-24,Upsell,Jane Smith,Marketing Cloud,Closed Won
+OPP_275,Opportunity 275,Acme Corp,APAC,Finance,Closed Lost,High,77,9297,2024-7-18,New Business,Jane Smith,Marketing Cloud,Qualification
+OPP_276,Opportunity 276,LexCorp,EMEA,Finance,New,Medium,63,75401,2024-7-11,New Business,Jane Smith,Salesforce,Closed Lost
+OPP_277,Opportunity 277,Wayne Enterprises,APAC,Finance,Closed Won,Medium,62,32209,2024-10-16,Upsell,Jane Smith,Salesforce,Negotiation
+OPP_278,Opportunity 278,Litware Inc,North America,Healthcare,Pending,High,62,3759,2024-2-6,Upsell,Michael Jones,Salesforce,Negotiation
+OPP_279,Opportunity 279,LexCorp,South America,Finance,Closed Won,High,81,82594,2024-1-3,Upsell,John Doe,Salesforce,Closed Lost
+OPP_280,Opportunity 280,Litware Inc,EMEA,Finance,Closed Lost,Low,76,51802,2024-5-2,Cross-sell,Jane Smith,Salesforce,Proposal/Quote
+OPP_281,Opportunity 281,Acme Corp,North America,Technology,Closed Lost,High,58,83455,2023-2-11,Cross-sell,Michael Jones,Marketing Cloud,Closed Won
+OPP_282,Opportunity 282,Wayne Enterprises,APAC,Healthcare,Pending,Low,42,34442,2023-7-2,Cross-sell,Michael Jones,Salesforce,Closed Lost
+OPP_283,Opportunity 283,Litware Inc,APAC,Retail,Closed Won,Medium,73,29292,2024-3-21,Upsell,John Doe,Salesforce,Closed Lost
+OPP_284,Opportunity 284,Acme Corp,South America,Healthcare,New,High,83,84657,2024-1-17,Cross-sell,Jane Smith,Marketing Cloud,Closed Won
+OPP_285,Opportunity 285,Acme Corp,EMEA,Finance,Closed Won,High,23,88673,2024-11-5,Cross-sell,Jane Smith,Service Cloud,Qualification
+OPP_286,Opportunity 286,Litware Inc,North America,Finance,New,High,27,30808,2023-4-3,Cross-sell,John Doe,Marketing Cloud,Proposal/Quote
+OPP_287,Opportunity 287,LexCorp,South America,Healthcare,New,Medium,59,76692,2023-9-13,Upsell,Michael Jones,Salesforce,Negotiation
+OPP_288,Opportunity 288,Litware Inc,APAC,Technology,Closed Won,High,69,38777,2023-4-13,Cross-sell,Jane Smith,Service Cloud,Qualification
+OPP_289,Opportunity 289,Acme Corp,EMEA,Retail,Pending,Medium,59,6155,2024-4-13,Upsell,Jane Smith,Service Cloud,Proposal/Quote
+OPP_290,Opportunity 290,Litware Inc,EMEA,Technology,Closed Lost,High,56,70472,2023-5-25,Cross-sell,Jane Smith,Service Cloud,Qualification
+OPP_291,Opportunity 291,LexCorp,South America,Technology,Closed Won,High,32,69795,2024-10-15,Upsell,Michael Jones,Service Cloud,Closed Won
+OPP_292,Opportunity 292,Litware Inc,North America,Retail,New,Medium,56,70766,2024-2-11,Upsell,Michael Jones,Service Cloud,Proposal/Quote
+OPP_293,Opportunity 293,LexCorp,North America,Healthcare,Pending,Low,27,77707,2023-9-9,New Business,Michael Jones,Service Cloud,Closed Lost
+OPP_294,Opportunity 294,LexCorp,North America,Technology,New,Low,46,89817,2024-9-4,Cross-sell,Jane Smith,Salesforce,Negotiation
+OPP_295,Opportunity 295,LexCorp,EMEA,Healthcare,Closed Lost,Medium,68,29404,2023-11-6,Cross-sell,John Doe,Salesforce,Closed Won
+OPP_296,Opportunity 296,Acme Corp,EMEA,Technology,New,Low,21,43220,2023-6-6,Cross-sell,Michael Jones,Marketing Cloud,Closed Won
+OPP_297,Opportunity 297,Wayne Enterprises,South America,Technology,Pending,High,67,28735,2024-8-3,Upsell,John Doe,Marketing Cloud,Closed Won
+OPP_298,Opportunity 298,Litware Inc,North America,Retail,Pending,Low,72,88565,2024-3-20,Cross-sell,Jane Smith,Salesforce,Qualification
+OPP_299,Opportunity 299,Litware Inc,South America,Healthcare,Closed Won,High,81,62088,2024-5-26,Cross-sell,Jane Smith,Salesforce,Closed Lost
+OPP_300,Opportunity 300,Litware Inc,South America,Healthcare,New,Medium,24,64598,2023-6-16,Cross-sell,Jane Smith,Salesforce,Closed Won
+OPP_301,Opportunity 301,Litware Inc,APAC,Retail,Pending,Low,80,81789,2024-9-10,New Business,John Doe,Marketing Cloud,Closed Lost
+OPP_302,Opportunity 302,Wayne Enterprises,EMEA,Technology,Pending,High,67,26400,2023-6-16,New Business,John Doe,Service Cloud,Closed Won
+OPP_303,Opportunity 303,Acme Corp,North America,Finance,New,Low,81,1745,2023-11-11,Upsell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_304,Opportunity 304,Acme Corp,APAC,Healthcare,Closed Lost,Low,72,50358,2024-4-12,Cross-sell,Jane Smith,Service Cloud,Closed Won
+OPP_305,Opportunity 305,Litware Inc,South America,Technology,Pending,High,21,47520,2024-9-11,Cross-sell,Jane Smith,Salesforce,Negotiation
+OPP_306,Opportunity 306,LexCorp,EMEA,Retail,Closed Won,Medium,43,75128,2024-1-26,Cross-sell,Michael Jones,Salesforce,Qualification
+OPP_307,Opportunity 307,Wayne Enterprises,South America,Technology,Closed Lost,Low,87,53702,2023-11-13,New Business,Michael Jones,Salesforce,Closed Won
+OPP_308,Opportunity 308,LexCorp,South America,Retail,Closed Won,Low,85,53787,2024-7-23,Upsell,John Doe,Salesforce,Closed Won
+OPP_309,Opportunity 309,Litware Inc,North America,Finance,New,Medium,34,3051,2024-10-23,Cross-sell,Jane Smith,Marketing Cloud,Qualification
+OPP_310,Opportunity 310,Litware Inc,APAC,Healthcare,Closed Lost,High,31,29382,2023-1-1,New Business,Michael Jones,Service Cloud,Closed Won
+OPP_311,Opportunity 311,Acme Corp,EMEA,Retail,Closed Lost,Medium,46,13228,2024-11-21,Upsell,John Doe,Salesforce,Proposal/Quote
+OPP_312,Opportunity 312,Litware Inc,North America,Technology,Closed Won,Medium,79,41968,2024-8-7,New Business,Jane Smith,Marketing Cloud,Qualification
+OPP_313,Opportunity 313,Acme Corp,APAC,Retail,New,High,32,18426,2024-7-10,New Business,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_314,Opportunity 314,Wayne Enterprises,North America,Retail,Closed Lost,Medium,49,15590,2023-8-9,Cross-sell,Michael Jones,Service Cloud,Qualification
+OPP_315,Opportunity 315,Litware Inc,EMEA,Retail,Pending,Low,39,84748,2024-9-7,Upsell,Michael Jones,Service Cloud,Closed Won
+OPP_316,Opportunity 316,Litware Inc,North America,Technology,Closed Lost,Medium,89,90797,2024-7-4,Cross-sell,John Doe,Service Cloud,Closed Won
+OPP_317,Opportunity 317,Litware Inc,EMEA,Technology,New,Medium,33,6615,2023-4-18,Upsell,John Doe,Salesforce,Negotiation
+OPP_318,Opportunity 318,LexCorp,EMEA,Finance,Closed Lost,Low,30,93032,2023-1-25,New Business,Jane Smith,Salesforce,Closed Lost
+OPP_319,Opportunity 319,LexCorp,APAC,Retail,Closed Lost,Low,47,7726,2023-6-10,New Business,John Doe,Marketing Cloud,Proposal/Quote
+OPP_320,Opportunity 320,Wayne Enterprises,APAC,Finance,New,Low,27,65468,2023-7-3,Upsell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_321,Opportunity 321,Litware Inc,South America,Technology,Pending,Low,29,27103,2024-1-19,New Business,Michael Jones,Service Cloud,Negotiation
+OPP_322,Opportunity 322,Litware Inc,APAC,Retail,Pending,Low,87,59061,2023-11-16,New Business,John Doe,Salesforce,Closed Won
+OPP_323,Opportunity 323,Wayne Enterprises,South America,Finance,New,High,67,66023,2023-4-7,Upsell,Michael Jones,Salesforce,Closed Won
+OPP_324,Opportunity 324,Litware Inc,South America,Healthcare,Closed Won,High,53,2985,2024-1-12,Cross-sell,Jane Smith,Service Cloud,Proposal/Quote
+OPP_325,Opportunity 325,Litware Inc,EMEA,Retail,New,Medium,79,68904,2024-12-19,Upsell,Jane Smith,Service Cloud,Closed Lost
+OPP_326,Opportunity 326,Wayne Enterprises,North America,Finance,New,Low,43,85556,2024-1-24,New Business,Michael Jones,Service Cloud,Closed Lost
+OPP_327,Opportunity 327,Acme Corp,North America,Finance,Closed Lost,Medium,46,96611,2023-10-8,Upsell,Michael Jones,Service Cloud,Qualification
+OPP_328,Opportunity 328,Litware Inc,South America,Retail,Closed Lost,High,40,14167,2023-6-5,New Business,Jane Smith,Service Cloud,Negotiation
+OPP_329,Opportunity 329,Acme Corp,EMEA,Finance,Closed Lost,Medium,20,45125,2024-6-27,Cross-sell,Jane Smith,Salesforce,Proposal/Quote
+OPP_330,Opportunity 330,Litware Inc,South America,Technology,Pending,Low,34,88680,2023-10-14,Cross-sell,Michael Jones,Salesforce,Negotiation
+OPP_331,Opportunity 331,LexCorp,South America,Finance,Pending,Medium,90,21086,2024-10-20,Upsell,Michael Jones,Service Cloud,Negotiation
+OPP_332,Opportunity 332,Litware Inc,South America,Retail,New,Low,20,97768,2024-2-19,Cross-sell,Jane Smith,Salesforce,Closed Lost
+OPP_333,Opportunity 333,Acme Corp,APAC,Technology,New,Medium,65,73459,2024-5-16,Upsell,Michael Jones,Service Cloud,Closed Won
+OPP_334,Opportunity 334,LexCorp,South America,Healthcare,Closed Lost,Low,40,41815,2024-4-26,Upsell,Michael Jones,Marketing Cloud,Qualification
+OPP_335,Opportunity 335,LexCorp,South America,Retail,Closed Won,Low,35,27175,2023-5-12,Upsell,Michael Jones,Salesforce,Qualification
+OPP_336,Opportunity 336,LexCorp,APAC,Retail,New,High,23,98209,2023-4-15,New Business,Michael Jones,Salesforce,Negotiation
+OPP_337,Opportunity 337,Litware Inc,APAC,Retail,Closed Won,High,50,34369,2024-8-14,Cross-sell,Jane Smith,Salesforce,Proposal/Quote
+OPP_338,Opportunity 338,Wayne Enterprises,APAC,Retail,Pending,High,37,75391,2024-7-5,New Business,Jane Smith,Marketing Cloud,Negotiation
+OPP_339,Opportunity 339,LexCorp,South America,Technology,New,Medium,34,93728,2024-10-19,Upsell,Michael Jones,Salesforce,Proposal/Quote
+OPP_340,Opportunity 340,LexCorp,North America,Healthcare,New,Low,45,31960,2023-11-5,Upsell,Jane Smith,Salesforce,Closed Won
+OPP_341,Opportunity 341,Acme Corp,APAC,Retail,Closed Lost,Medium,35,69867,2023-3-26,New Business,John Doe,Salesforce,Proposal/Quote
+OPP_342,Opportunity 342,Acme Corp,South America,Healthcare,Closed Won,Low,72,71901,2023-1-19,Upsell,John Doe,Service Cloud,Proposal/Quote
+OPP_343,Opportunity 343,Litware Inc,EMEA,Finance,Closed Won,High,89,99634,2024-2-13,Upsell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_344,Opportunity 344,Acme Corp,North America,Technology,New,High,84,14803,2023-6-12,New Business,Michael Jones,Marketing Cloud,Negotiation
+OPP_345,Opportunity 345,Litware Inc,APAC,Technology,Closed Lost,High,29,3220,2023-3-10,Upsell,Jane Smith,Service Cloud,Qualification
+OPP_346,Opportunity 346,Wayne Enterprises,North America,Technology,New,High,44,71733,2024-9-18,New Business,John Doe,Service Cloud,Closed Won
+OPP_347,Opportunity 347,Acme Corp,EMEA,Finance,Closed Lost,Low,64,11276,2023-3-2,Upsell,Jane Smith,Marketing Cloud,Qualification
+OPP_348,Opportunity 348,Litware Inc,EMEA,Healthcare,Closed Lost,Low,75,68232,2023-12-27,Upsell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_349,Opportunity 349,Litware Inc,APAC,Healthcare,Closed Lost,Medium,35,52113,2024-7-12,Cross-sell,John Doe,Service Cloud,Qualification
+OPP_350,Opportunity 350,Acme Corp,EMEA,Retail,Pending,Low,61,29550,2023-5-20,Cross-sell,Michael Jones,Salesforce,Proposal/Quote
+OPP_351,Opportunity 351,Wayne Enterprises,APAC,Healthcare,Closed Won,Low,42,49742,2024-10-6,Cross-sell,Jane Smith,Service Cloud,Qualification
+OPP_352,Opportunity 352,Acme Corp,APAC,Retail,Closed Lost,Medium,52,41025,2023-1-25,Cross-sell,Michael Jones,Service Cloud,Qualification
+OPP_353,Opportunity 353,LexCorp,North America,Technology,New,Medium,77,46876,2023-6-12,New Business,Jane Smith,Service Cloud,Negotiation
+OPP_354,Opportunity 354,Wayne Enterprises,North America,Technology,Closed Lost,Low,64,88256,2023-2-1,New Business,John Doe,Service Cloud,Proposal/Quote
+OPP_355,Opportunity 355,Litware Inc,South America,Technology,Closed Lost,Low,56,99721,2023-5-6,New Business,Michael Jones,Service Cloud,Closed Lost
+OPP_356,Opportunity 356,LexCorp,North America,Finance,Closed Won,Low,25,66586,2023-11-9,Upsell,Jane Smith,Service Cloud,Closed Won
+OPP_357,Opportunity 357,LexCorp,North America,Technology,New,High,59,75919,2023-1-6,New Business,Michael Jones,Marketing Cloud,Qualification
+OPP_358,Opportunity 358,Acme Corp,North America,Finance,New,High,58,39256,2023-9-27,Cross-sell,Jane Smith,Marketing Cloud,Closed Won
+OPP_359,Opportunity 359,LexCorp,APAC,Finance,Closed Lost,Medium,63,33182,2023-11-9,Cross-sell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_360,Opportunity 360,LexCorp,South America,Finance,Pending,Low,52,97153,2024-5-4,Cross-sell,Michael Jones,Salesforce,Qualification
+OPP_361,Opportunity 361,Wayne Enterprises,EMEA,Healthcare,Closed Lost,Medium,45,89173,2023-10-2,Cross-sell,Jane Smith,Service Cloud,Negotiation
+OPP_362,Opportunity 362,Litware Inc,North America,Finance,Pending,High,26,29449,2024-7-3,New Business,Jane Smith,Salesforce,Closed Won
+OPP_363,Opportunity 363,LexCorp,EMEA,Retail,Closed Lost,Low,25,65770,2023-9-25,Upsell,Michael Jones,Salesforce,Negotiation
+OPP_364,Opportunity 364,Acme Corp,North America,Retail,Pending,Medium,79,91988,2023-1-1,Cross-sell,Michael Jones,Marketing Cloud,Negotiation
+OPP_365,Opportunity 365,Wayne Enterprises,North America,Retail,Pending,Low,50,29511,2023-4-7,New Business,Jane Smith,Service Cloud,Qualification
+OPP_366,Opportunity 366,Wayne Enterprises,EMEA,Retail,New,Medium,89,58438,2024-3-13,New Business,Jane Smith,Salesforce,Qualification
+OPP_367,Opportunity 367,Litware Inc,EMEA,Technology,Closed Lost,High,24,17266,2023-4-1,Upsell,Jane Smith,Marketing Cloud,Qualification
+OPP_368,Opportunity 368,Wayne Enterprises,South America,Finance,Closed Lost,Low,73,1010,2024-2-12,Upsell,John Doe,Salesforce,Qualification
+OPP_369,Opportunity 369,Wayne Enterprises,South America,Finance,Pending,Low,56,71585,2024-8-7,Upsell,John Doe,Marketing Cloud,Negotiation
+OPP_370,Opportunity 370,Wayne Enterprises,EMEA,Technology,New,High,38,17342,2023-7-22,Cross-sell,John Doe,Service Cloud,Negotiation
+OPP_371,Opportunity 371,Litware Inc,South America,Technology,New,High,74,76573,2024-10-19,Cross-sell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_372,Opportunity 372,Litware Inc,EMEA,Healthcare,Closed Won,Low,42,3826,2024-5-22,New Business,Michael Jones,Marketing Cloud,Closed Lost
+OPP_373,Opportunity 373,Litware Inc,South America,Healthcare,New,Medium,47,33020,2023-6-18,Upsell,Michael Jones,Marketing Cloud,Negotiation
+OPP_374,Opportunity 374,Acme Corp,North America,Technology,New,Low,43,47460,2024-4-11,Upsell,John Doe,Marketing Cloud,Closed Lost
+OPP_375,Opportunity 375,Acme Corp,North America,Technology,New,Low,78,14899,2023-8-10,Cross-sell,Michael Jones,Marketing Cloud,Closed Won
+OPP_376,Opportunity 376,Wayne Enterprises,South America,Finance,Closed Won,High,55,42058,2024-3-2,Cross-sell,Jane Smith,Salesforce,Qualification
+OPP_377,Opportunity 377,Litware Inc,South America,Retail,Closed Won,Low,22,24385,2024-9-5,Upsell,Jane Smith,Marketing Cloud,Qualification
+OPP_378,Opportunity 378,Acme Corp,North America,Retail,Pending,High,75,97889,2023-12-16,Upsell,Michael Jones,Salesforce,Negotiation
+OPP_379,Opportunity 379,Litware Inc,South America,Finance,Pending,High,54,80724,2024-4-3,Upsell,Michael Jones,Marketing Cloud,Closed Won
+OPP_380,Opportunity 380,Acme Corp,APAC,Retail,New,Low,39,93521,2023-7-21,Cross-sell,Michael Jones,Marketing Cloud,Qualification
+OPP_381,Opportunity 381,Litware Inc,South America,Finance,Closed Lost,Low,61,52656,2023-8-14,New Business,Michael Jones,Salesforce,Proposal/Quote
+OPP_382,Opportunity 382,Acme Corp,EMEA,Technology,New,High,51,30858,2023-11-18,New Business,Michael Jones,Salesforce,Closed Won
+OPP_383,Opportunity 383,Acme Corp,South America,Retail,Closed Won,Low,28,90645,2024-6-23,New Business,Jane Smith,Service Cloud,Qualification
+OPP_384,Opportunity 384,Litware Inc,South America,Finance,Closed Lost,Medium,90,67972,2023-4-17,Cross-sell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_385,Opportunity 385,Acme Corp,South America,Technology,Closed Lost,High,28,24910,2024-5-24,Upsell,Jane Smith,Marketing Cloud,Negotiation
+OPP_386,Opportunity 386,Wayne Enterprises,North America,Healthcare,Pending,Medium,53,13076,2023-10-25,New Business,Michael Jones,Salesforce,Qualification
+OPP_387,Opportunity 387,LexCorp,APAC,Finance,Pending,Low,89,45001,2024-4-5,Cross-sell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_388,Opportunity 388,LexCorp,South America,Healthcare,Closed Lost,Medium,66,61992,2023-2-9,New Business,John Doe,Marketing Cloud,Closed Won
+OPP_389,Opportunity 389,LexCorp,APAC,Finance,Closed Won,High,89,89951,2023-11-6,New Business,Michael Jones,Marketing Cloud,Qualification
+OPP_390,Opportunity 390,Litware Inc,APAC,Technology,Closed Won,High,24,17776,2024-9-19,New Business,Jane Smith,Salesforce,Qualification
+OPP_391,Opportunity 391,LexCorp,South America,Retail,Closed Lost,Low,67,30032,2024-9-5,Upsell,Jane Smith,Service Cloud,Negotiation
+OPP_392,Opportunity 392,Wayne Enterprises,North America,Technology,New,High,36,83189,2024-3-8,Cross-sell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_393,Opportunity 393,Wayne Enterprises,South America,Retail,New,High,53,70301,2023-6-27,New Business,Michael Jones,Salesforce,Negotiation
+OPP_394,Opportunity 394,Wayne Enterprises,South America,Retail,New,Medium,38,93424,2024-4-15,New Business,Jane Smith,Service Cloud,Proposal/Quote
+OPP_395,Opportunity 395,Litware Inc,APAC,Technology,Closed Lost,Low,78,60196,2023-1-15,Upsell,John Doe,Salesforce,Closed Lost
+OPP_396,Opportunity 396,LexCorp,APAC,Healthcare,New,Medium,64,30627,2023-12-9,Cross-sell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_397,Opportunity 397,Acme Corp,South America,Technology,Pending,Low,43,69162,2024-9-16,Upsell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_398,Opportunity 398,Litware Inc,APAC,Healthcare,Pending,Medium,70,78111,2024-8-13,New Business,Jane Smith,Salesforce,Closed Won
+OPP_399,Opportunity 399,Litware Inc,South America,Healthcare,New,Medium,34,71432,2023-7-25,Cross-sell,John Doe,Salesforce,Negotiation
+OPP_400,Opportunity 400,Acme Corp,South America,Technology,Closed Won,High,90,87879,2024-7-18,Cross-sell,John Doe,Service Cloud,Negotiation
+OPP_401,Opportunity 401,Litware Inc,APAC,Technology,Closed Lost,Low,81,19136,2023-8-24,Cross-sell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_402,Opportunity 402,Acme Corp,EMEA,Retail,Closed Won,Medium,55,32814,2024-6-8,Upsell,Michael Jones,Salesforce,Qualification
+OPP_403,Opportunity 403,LexCorp,EMEA,Healthcare,New,High,38,9929,2024-6-24,New Business,Michael Jones,Salesforce,Proposal/Quote
+OPP_404,Opportunity 404,Wayne Enterprises,North America,Retail,Closed Lost,Medium,89,8569,2023-4-3,Upsell,Michael Jones,Service Cloud,Closed Lost
+OPP_405,Opportunity 405,Acme Corp,APAC,Healthcare,New,Medium,68,47126,2023-5-7,Upsell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_406,Opportunity 406,Wayne Enterprises,APAC,Technology,Closed Won,High,72,62343,2023-9-5,Cross-sell,Jane Smith,Marketing Cloud,Closed Lost
+OPP_407,Opportunity 407,Acme Corp,EMEA,Retail,Closed Lost,High,32,22736,2024-2-12,Upsell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_408,Opportunity 408,LexCorp,North America,Finance,Closed Won,Medium,26,11547,2023-5-14,Upsell,Jane Smith,Salesforce,Proposal/Quote
+OPP_409,Opportunity 409,Wayne Enterprises,North America,Healthcare,Closed Lost,High,83,7339,2024-9-10,New Business,Michael Jones,Service Cloud,Proposal/Quote
+OPP_410,Opportunity 410,Wayne Enterprises,South America,Technology,Closed Lost,Low,48,59272,2023-7-9,Upsell,Jane Smith,Marketing Cloud,Qualification
+OPP_411,Opportunity 411,Acme Corp,North America,Retail,Pending,Medium,51,63142,2023-3-12,Cross-sell,John Doe,Salesforce,Qualification
+OPP_412,Opportunity 412,Wayne Enterprises,APAC,Finance,Closed Won,Low,85,83517,2023-10-21,Cross-sell,Jane Smith,Marketing Cloud,Closed Won
+OPP_413,Opportunity 413,LexCorp,EMEA,Technology,Pending,Medium,65,81944,2024-5-5,New Business,John Doe,Marketing Cloud,Qualification
+OPP_414,Opportunity 414,Litware Inc,APAC,Healthcare,Pending,Low,27,17476,2023-3-13,New Business,Michael Jones,Marketing Cloud,Closed Won
+OPP_415,Opportunity 415,LexCorp,South America,Retail,Closed Lost,Low,26,88628,2023-5-15,New Business,Michael Jones,Salesforce,Proposal/Quote
+OPP_416,Opportunity 416,LexCorp,South America,Retail,New,Medium,73,7040,2024-7-11,Upsell,Michael Jones,Marketing Cloud,Closed Won
+OPP_417,Opportunity 417,LexCorp,APAC,Healthcare,Closed Won,High,40,49068,2023-2-6,Cross-sell,Jane Smith,Salesforce,Closed Lost
+OPP_418,Opportunity 418,Litware Inc,EMEA,Retail,Closed Lost,Medium,77,82791,2024-2-28,Upsell,John Doe,Service Cloud,Proposal/Quote
+OPP_419,Opportunity 419,Wayne Enterprises,EMEA,Technology,New,Medium,23,59137,2024-2-12,New Business,Jane Smith,Salesforce,Closed Lost
+OPP_420,Opportunity 420,LexCorp,North America,Healthcare,Closed Lost,Medium,43,17123,2024-7-17,New Business,Jane Smith,Salesforce,Qualification
+OPP_421,Opportunity 421,Litware Inc,EMEA,Technology,Pending,High,52,65493,2024-6-11,Cross-sell,John Doe,Marketing Cloud,Closed Won
+OPP_422,Opportunity 422,Acme Corp,APAC,Technology,Closed Won,Medium,73,81101,2023-3-2,Upsell,John Doe,Salesforce,Negotiation
+OPP_423,Opportunity 423,Litware Inc,South America,Technology,New,High,64,84608,2024-12-22,Upsell,John Doe,Service Cloud,Closed Won
+OPP_424,Opportunity 424,LexCorp,North America,Technology,Closed Lost,Medium,79,4580,2023-4-14,Cross-sell,John Doe,Service Cloud,Qualification
+OPP_425,Opportunity 425,Acme Corp,South America,Retail,Closed Lost,Low,40,55864,2024-9-20,Cross-sell,John Doe,Marketing Cloud,Qualification
+OPP_426,Opportunity 426,Wayne Enterprises,APAC,Healthcare,Closed Lost,Low,76,10686,2023-9-2,New Business,Michael Jones,Salesforce,Proposal/Quote
+OPP_427,Opportunity 427,Acme Corp,North America,Technology,New,Medium,65,38656,2024-7-18,Upsell,John Doe,Marketing Cloud,Closed Lost
+OPP_428,Opportunity 428,Litware Inc,APAC,Retail,New,Low,75,2182,2023-10-12,Cross-sell,Michael Jones,Service Cloud,Qualification
+OPP_429,Opportunity 429,Wayne Enterprises,South America,Retail,Pending,High,71,99929,2023-9-10,Upsell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_430,Opportunity 430,LexCorp,EMEA,Technology,Closed Won,High,67,73464,2023-12-18,Upsell,Michael Jones,Service Cloud,Negotiation
+OPP_431,Opportunity 431,Wayne Enterprises,North America,Healthcare,Closed Lost,Low,23,47792,2024-9-10,Upsell,Michael Jones,Service Cloud,Proposal/Quote
+OPP_432,Opportunity 432,Litware Inc,South America,Finance,Pending,Medium,45,31470,2024-12-6,Upsell,John Doe,Service Cloud,Closed Won
+OPP_433,Opportunity 433,Acme Corp,South America,Finance,Pending,Low,66,29535,2023-7-22,Upsell,Michael Jones,Service Cloud,Negotiation
+OPP_434,Opportunity 434,Litware Inc,North America,Retail,Closed Lost,High,29,49407,2024-1-22,Cross-sell,Michael Jones,Marketing Cloud,Closed Won
+OPP_435,Opportunity 435,Acme Corp,EMEA,Finance,Pending,High,48,71337,2024-4-20,Upsell,John Doe,Salesforce,Proposal/Quote
+OPP_436,Opportunity 436,Acme Corp,South America,Retail,Closed Lost,Medium,37,32221,2024-6-19,Cross-sell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_437,Opportunity 437,Wayne Enterprises,APAC,Finance,Closed Won,Low,44,35437,2024-12-27,Upsell,John Doe,Marketing Cloud,Qualification
+OPP_438,Opportunity 438,Acme Corp,APAC,Technology,Closed Won,Medium,81,75668,2023-9-15,Upsell,John Doe,Marketing Cloud,Proposal/Quote
+OPP_439,Opportunity 439,Litware Inc,APAC,Technology,Pending,Low,40,90314,2023-2-19,New Business,Jane Smith,Service Cloud,Closed Lost
+OPP_440,Opportunity 440,LexCorp,EMEA,Finance,Pending,High,60,25681,2023-12-18,Cross-sell,Jane Smith,Salesforce,Qualification
+OPP_441,Opportunity 441,Wayne Enterprises,South America,Retail,New,Low,31,93735,2024-6-22,Upsell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_442,Opportunity 442,Litware Inc,South America,Healthcare,Pending,Medium,45,37904,2023-11-11,Upsell,John Doe,Service Cloud,Closed Lost
+OPP_443,Opportunity 443,LexCorp,North America,Technology,Closed Won,Medium,57,85493,2024-3-18,Upsell,John Doe,Marketing Cloud,Closed Lost
+OPP_444,Opportunity 444,Litware Inc,EMEA,Healthcare,New,Medium,39,78926,2023-2-26,Cross-sell,Jane Smith,Service Cloud,Closed Won
+OPP_445,Opportunity 445,Wayne Enterprises,South America,Healthcare,Pending,High,25,69831,2023-10-26,New Business,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_446,Opportunity 446,LexCorp,APAC,Healthcare,Closed Lost,Medium,71,45729,2024-6-9,New Business,Michael Jones,Service Cloud,Proposal/Quote
+OPP_447,Opportunity 447,Acme Corp,North America,Technology,Closed Lost,Low,61,89369,2024-12-3,Upsell,Jane Smith,Marketing Cloud,Qualification
+OPP_448,Opportunity 448,Wayne Enterprises,APAC,Finance,New,Low,59,79494,2023-3-26,New Business,Jane Smith,Salesforce,Qualification
+OPP_449,Opportunity 449,Wayne Enterprises,APAC,Healthcare,New,Medium,33,65411,2024-3-6,Upsell,Jane Smith,Salesforce,Closed Lost
+OPP_450,Opportunity 450,Litware Inc,South America,Finance,Pending,Low,36,88187,2024-3-3,Cross-sell,Michael Jones,Salesforce,Closed Won
+OPP_451,Opportunity 451,LexCorp,South America,Technology,New,Low,43,42925,2023-8-1,Upsell,Michael Jones,Service Cloud,Closed Won
+OPP_452,Opportunity 452,LexCorp,EMEA,Finance,Pending,Medium,44,46236,2023-10-21,Cross-sell,John Doe,Marketing Cloud,Qualification
+OPP_453,Opportunity 453,Acme Corp,EMEA,Healthcare,New,Low,22,88426,2024-7-28,New Business,John Doe,Service Cloud,Proposal/Quote
+OPP_454,Opportunity 454,LexCorp,APAC,Healthcare,New,Medium,45,76580,2024-11-8,New Business,John Doe,Service Cloud,Qualification
+OPP_455,Opportunity 455,Litware Inc,APAC,Retail,New,Medium,77,29523,2024-7-16,Upsell,Jane Smith,Service Cloud,Closed Won
+OPP_456,Opportunity 456,LexCorp,North America,Retail,Closed Won,Medium,40,57232,2024-12-17,New Business,Jane Smith,Service Cloud,Closed Won
+OPP_457,Opportunity 457,Litware Inc,South America,Retail,Closed Won,Low,23,30870,2024-12-4,Cross-sell,John Doe,Salesforce,Negotiation
+OPP_458,Opportunity 458,Litware Inc,South America,Healthcare,Closed Lost,High,40,61891,2023-8-28,New Business,John Doe,Salesforce,Proposal/Quote
+OPP_459,Opportunity 459,Wayne Enterprises,APAC,Healthcare,Pending,Medium,38,64268,2024-7-20,Cross-sell,Michael Jones,Service Cloud,Proposal/Quote
+OPP_460,Opportunity 460,Acme Corp,EMEA,Retail,Closed Won,Medium,65,91504,2024-7-6,Cross-sell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_461,Opportunity 461,Litware Inc,APAC,Healthcare,New,High,28,61993,2023-2-16,New Business,Michael Jones,Salesforce,Proposal/Quote
+OPP_462,Opportunity 462,Litware Inc,EMEA,Healthcare,Pending,Low,89,11931,2024-6-15,New Business,Jane Smith,Salesforce,Qualification
+OPP_463,Opportunity 463,Acme Corp,EMEA,Technology,New,Low,50,32663,2024-10-6,Cross-sell,John Doe,Salesforce,Negotiation
+OPP_464,Opportunity 464,Litware Inc,North America,Retail,Pending,Low,36,96082,2024-6-13,Upsell,Michael Jones,Service Cloud,Negotiation
+OPP_465,Opportunity 465,LexCorp,EMEA,Healthcare,Closed Lost,Low,66,94397,2023-12-15,Cross-sell,John Doe,Service Cloud,Closed Lost
+OPP_466,Opportunity 466,Wayne Enterprises,APAC,Healthcare,Closed Won,High,67,83508,2023-3-10,Cross-sell,Michael Jones,Service Cloud,Closed Lost
+OPP_467,Opportunity 467,Acme Corp,South America,Finance,Closed Lost,Medium,31,82544,2023-3-14,New Business,Michael Jones,Marketing Cloud,Closed Lost
+OPP_468,Opportunity 468,Acme Corp,South America,Retail,Pending,Low,85,87098,2024-9-22,New Business,Michael Jones,Salesforce,Closed Won
+OPP_469,Opportunity 469,Acme Corp,EMEA,Finance,Pending,Medium,53,56200,2023-5-19,Upsell,Michael Jones,Service Cloud,Closed Lost
+OPP_470,Opportunity 470,LexCorp,North America,Healthcare,New,Medium,51,98981,2024-4-22,Cross-sell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_471,Opportunity 471,Acme Corp,South America,Finance,Pending,Low,60,25783,2023-3-21,Upsell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_472,Opportunity 472,Litware Inc,North America,Retail,Pending,Low,71,48664,2024-7-3,Cross-sell,Michael Jones,Salesforce,Qualification
+OPP_473,Opportunity 473,Acme Corp,North America,Finance,New,Low,50,30435,2024-7-5,Cross-sell,John Doe,Salesforce,Proposal/Quote
+OPP_474,Opportunity 474,LexCorp,North America,Retail,Closed Won,Medium,90,26346,2023-1-3,New Business,John Doe,Salesforce,Qualification
+OPP_475,Opportunity 475,Acme Corp,APAC,Healthcare,Pending,High,26,59320,2024-2-12,New Business,Jane Smith,Salesforce,Closed Won
+OPP_476,Opportunity 476,LexCorp,South America,Healthcare,Pending,Medium,57,26296,2024-11-5,Cross-sell,Jane Smith,Salesforce,Negotiation
+OPP_477,Opportunity 477,Wayne Enterprises,South America,Technology,New,High,70,97108,2024-2-15,Upsell,Jane Smith,Marketing Cloud,Qualification
+OPP_478,Opportunity 478,LexCorp,South America,Healthcare,New,Low,34,95108,2023-10-9,Cross-sell,Michael Jones,Salesforce,Negotiation
+OPP_479,Opportunity 479,LexCorp,South America,Finance,Closed Won,High,33,33976,2023-1-18,Upsell,John Doe,Service Cloud,Closed Won
+OPP_480,Opportunity 480,Acme Corp,EMEA,Technology,New,Low,33,84991,2024-2-26,Cross-sell,Jane Smith,Salesforce,Negotiation
+OPP_481,Opportunity 481,Litware Inc,EMEA,Retail,Pending,Low,83,99999,2024-8-9,Upsell,John Doe,Salesforce,Closed Won
+OPP_482,Opportunity 482,Wayne Enterprises,South America,Retail,Closed Lost,Medium,35,41376,2023-6-12,Upsell,John Doe,Salesforce,Proposal/Quote
+OPP_483,Opportunity 483,LexCorp,North America,Retail,Closed Lost,High,36,4594,2023-5-28,Cross-sell,Michael Jones,Service Cloud,Negotiation
+OPP_484,Opportunity 484,Acme Corp,APAC,Finance,Closed Lost,High,79,46030,2023-12-17,New Business,John Doe,Salesforce,Proposal/Quote
+OPP_485,Opportunity 485,Wayne Enterprises,North America,Retail,Pending,Low,56,85367,2024-4-25,New Business,Michael Jones,Salesforce,Proposal/Quote
+OPP_486,Opportunity 486,LexCorp,South America,Finance,Pending,Medium,68,10136,2024-2-12,Cross-sell,Jane Smith,Service Cloud,Closed Lost
+OPP_487,Opportunity 487,Acme Corp,APAC,Healthcare,Closed Lost,High,52,79361,2023-3-17,New Business,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_488,Opportunity 488,Litware Inc,APAC,Finance,Closed Lost,Low,23,51080,2024-5-1,New Business,John Doe,Salesforce,Qualification
+OPP_489,Opportunity 489,LexCorp,EMEA,Finance,Closed Lost,High,85,36135,2024-2-20,Upsell,Michael Jones,Marketing Cloud,Closed Won
+OPP_490,Opportunity 490,Wayne Enterprises,South America,Healthcare,New,Medium,83,3048,2024-2-10,Cross-sell,Jane Smith,Marketing Cloud,Qualification
+OPP_491,Opportunity 491,Litware Inc,EMEA,Healthcare,New,Medium,79,34045,2023-4-16,Upsell,John Doe,Salesforce,Closed Lost
+OPP_492,Opportunity 492,Acme Corp,APAC,Finance,Closed Lost,High,22,67529,2024-4-20,Cross-sell,John Doe,Service Cloud,Closed Won
+OPP_493,Opportunity 493,Acme Corp,APAC,Technology,Pending,Low,65,70504,2023-5-12,Upsell,John Doe,Marketing Cloud,Negotiation
+OPP_494,Opportunity 494,Wayne Enterprises,South America,Healthcare,New,High,30,59094,2023-10-5,Upsell,Jane Smith,Service Cloud,Qualification
+OPP_495,Opportunity 495,Litware Inc,APAC,Healthcare,Closed Lost,Low,43,54548,2024-11-5,New Business,John Doe,Service Cloud,Negotiation
+OPP_496,Opportunity 496,Wayne Enterprises,EMEA,Retail,Closed Lost,High,89,6675,2024-2-11,New Business,Jane Smith,Marketing Cloud,Closed Won
+OPP_497,Opportunity 497,Litware Inc,APAC,Retail,Closed Won,Medium,22,70491,2024-2-18,New Business,Jane Smith,Marketing Cloud,Closed Won
+OPP_498,Opportunity 498,Acme Corp,South America,Healthcare,Pending,Low,41,88051,2023-1-16,Cross-sell,Jane Smith,Marketing Cloud,Closed Lost
+OPP_499,Opportunity 499,LexCorp,South America,Healthcare,Closed Won,Medium,44,60384,2024-11-14,New Business,Jane Smith,Service Cloud,Qualification
+OPP_500,Opportunity 500,LexCorp,EMEA,Finance,Closed Lost,Low,33,63096,2023-3-25,New Business,Michael Jones,Salesforce,Qualification
+OPP_501,Opportunity 501,Wayne Enterprises,EMEA,Healthcare,Closed Won,Low,43,80720,2023-4-4,Upsell,John Doe,Salesforce,Proposal/Quote
+OPP_502,Opportunity 502,LexCorp,EMEA,Technology,New,Low,86,30713,2023-6-14,Cross-sell,Michael Jones,Salesforce,Closed Won
+OPP_503,Opportunity 503,LexCorp,North America,Finance,New,Medium,78,7476,2024-11-16,Cross-sell,Jane Smith,Marketing Cloud,Closed Lost
+OPP_504,Opportunity 504,LexCorp,APAC,Finance,Closed Lost,High,61,30922,2024-5-3,Upsell,Michael Jones,Salesforce,Negotiation
+OPP_505,Opportunity 505,LexCorp,North America,Finance,New,Medium,72,2832,2024-1-14,New Business,Michael Jones,Salesforce,Closed Won
+OPP_506,Opportunity 506,Litware Inc,North America,Finance,Pending,High,27,97539,2024-6-25,Upsell,Jane Smith,Service Cloud,Qualification
+OPP_507,Opportunity 507,LexCorp,EMEA,Healthcare,New,High,21,77868,2024-12-26,Cross-sell,Jane Smith,Marketing Cloud,Closed Lost
+OPP_508,Opportunity 508,Litware Inc,South America,Finance,Pending,Medium,40,61044,2024-3-11,New Business,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_509,Opportunity 509,Acme Corp,APAC,Healthcare,Closed Lost,Low,57,24773,2023-10-10,Cross-sell,Jane Smith,Salesforce,Qualification
+OPP_510,Opportunity 510,Wayne Enterprises,EMEA,Technology,New,Medium,41,22657,2024-2-16,Cross-sell,Jane Smith,Marketing Cloud,Qualification
+OPP_511,Opportunity 511,Acme Corp,North America,Technology,Pending,Medium,42,47239,2024-7-2,New Business,Jane Smith,Service Cloud,Closed Won
+OPP_512,Opportunity 512,LexCorp,APAC,Technology,Closed Lost,High,57,64182,2023-9-16,Upsell,John Doe,Salesforce,Closed Lost
+OPP_513,Opportunity 513,Acme Corp,APAC,Technology,Closed Lost,High,85,18298,2023-5-15,New Business,Jane Smith,Service Cloud,Qualification
+OPP_514,Opportunity 514,Wayne Enterprises,EMEA,Finance,New,High,35,66788,2023-1-15,Cross-sell,Michael Jones,Marketing Cloud,Negotiation
+OPP_515,Opportunity 515,Litware Inc,North America,Healthcare,Closed Lost,High,54,47703,2023-4-3,New Business,John Doe,Marketing Cloud,Closed Won
+OPP_516,Opportunity 516,LexCorp,South America,Technology,Closed Lost,Medium,49,75661,2024-4-12,New Business,Jane Smith,Marketing Cloud,Qualification
+OPP_517,Opportunity 517,Acme Corp,APAC,Technology,Pending,High,30,40103,2024-10-8,Cross-sell,Michael Jones,Service Cloud,Closed Won
+OPP_518,Opportunity 518,Wayne Enterprises,North America,Retail,Pending,Medium,31,89044,2023-8-22,New Business,Michael Jones,Service Cloud,Closed Lost
+OPP_519,Opportunity 519,Litware Inc,North America,Finance,Closed Lost,High,61,27051,2023-10-20,New Business,John Doe,Salesforce,Qualification
+OPP_520,Opportunity 520,Wayne Enterprises,North America,Technology,Closed Won,High,78,53472,2024-6-7,New Business,John Doe,Salesforce,Closed Lost
+OPP_521,Opportunity 521,LexCorp,APAC,Finance,Pending,High,39,96690,2023-7-27,Cross-sell,Jane Smith,Salesforce,Closed Won
+OPP_522,Opportunity 522,Acme Corp,APAC,Finance,Closed Lost,Medium,55,14879,2023-2-3,Cross-sell,John Doe,Marketing Cloud,Closed Lost
+OPP_523,Opportunity 523,LexCorp,EMEA,Retail,Closed Lost,Medium,50,56070,2024-12-15,New Business,Jane Smith,Salesforce,Closed Won
+OPP_524,Opportunity 524,Acme Corp,South America,Technology,New,Medium,34,59585,2024-11-26,Cross-sell,Michael Jones,Service Cloud,Proposal/Quote
+OPP_525,Opportunity 525,Litware Inc,EMEA,Healthcare,Closed Won,Low,41,74694,2024-2-16,Upsell,John Doe,Service Cloud,Proposal/Quote
+OPP_526,Opportunity 526,Wayne Enterprises,North America,Retail,New,High,61,13444,2024-10-1,Cross-sell,Jane Smith,Marketing Cloud,Qualification
+OPP_527,Opportunity 527,LexCorp,South America,Retail,New,Medium,41,21565,2024-11-17,Upsell,Michael Jones,Marketing Cloud,Negotiation
+OPP_528,Opportunity 528,Wayne Enterprises,South America,Retail,Closed Won,High,42,24653,2024-12-17,New Business,Jane Smith,Salesforce,Proposal/Quote
+OPP_529,Opportunity 529,Wayne Enterprises,EMEA,Finance,Closed Lost,Medium,68,23618,2023-6-16,New Business,Michael Jones,Marketing Cloud,Qualification
+OPP_530,Opportunity 530,Acme Corp,EMEA,Healthcare,Closed Lost,Low,44,55416,2024-3-9,Upsell,Michael Jones,Salesforce,Closed Won
+OPP_531,Opportunity 531,Acme Corp,North America,Healthcare,New,High,73,50027,2023-3-27,Upsell,Jane Smith,Salesforce,Negotiation
+OPP_532,Opportunity 532,Litware Inc,North America,Technology,New,Low,59,91656,2023-6-15,Upsell,John Doe,Marketing Cloud,Negotiation
+OPP_533,Opportunity 533,Acme Corp,EMEA,Technology,New,Low,62,17068,2023-6-21,Cross-sell,John Doe,Service Cloud,Closed Won
+OPP_534,Opportunity 534,LexCorp,North America,Healthcare,Closed Lost,Medium,46,5530,2023-2-16,Upsell,Jane Smith,Marketing Cloud,Negotiation
+OPP_535,Opportunity 535,LexCorp,EMEA,Healthcare,Pending,High,82,63943,2023-7-11,New Business,Jane Smith,Marketing Cloud,Negotiation
+OPP_536,Opportunity 536,Acme Corp,APAC,Finance,Closed Won,Low,43,11428,2024-11-10,Cross-sell,Jane Smith,Service Cloud,Closed Won
+OPP_537,Opportunity 537,LexCorp,EMEA,Finance,Closed Lost,Low,25,76078,2023-10-16,Cross-sell,Michael Jones,Salesforce,Closed Lost
+OPP_538,Opportunity 538,Acme Corp,APAC,Healthcare,New,Medium,49,73469,2024-6-6,New Business,John Doe,Salesforce,Negotiation
+OPP_539,Opportunity 539,LexCorp,South America,Healthcare,Pending,Medium,62,8058,2023-7-22,Cross-sell,John Doe,Marketing Cloud,Closed Won
+OPP_540,Opportunity 540,Litware Inc,EMEA,Finance,Pending,Low,30,79240,2024-4-14,Cross-sell,John Doe,Marketing Cloud,Proposal/Quote
+OPP_541,Opportunity 541,Litware Inc,North America,Finance,Closed Lost,Low,63,62924,2024-3-16,Upsell,Jane Smith,Service Cloud,Closed Lost
+OPP_542,Opportunity 542,Litware Inc,South America,Healthcare,Closed Won,High,27,65181,2024-2-15,Upsell,Jane Smith,Salesforce,Negotiation
+OPP_543,Opportunity 543,Acme Corp,North America,Technology,New,High,60,1607,2024-2-10,Upsell,Michael Jones,Salesforce,Negotiation
+OPP_544,Opportunity 544,Wayne Enterprises,North America,Healthcare,Pending,Medium,71,44343,2024-6-26,Cross-sell,Jane Smith,Salesforce,Proposal/Quote
+OPP_545,Opportunity 545,Wayne Enterprises,North America,Technology,Closed Won,High,65,44927,2023-6-11,Upsell,Jane Smith,Marketing Cloud,Qualification
+OPP_546,Opportunity 546,Wayne Enterprises,APAC,Technology,New,Medium,53,51955,2023-5-9,New Business,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_547,Opportunity 547,Wayne Enterprises,EMEA,Technology,Pending,Low,77,7534,2024-12-17,Upsell,Jane Smith,Salesforce,Proposal/Quote
+OPP_548,Opportunity 548,Wayne Enterprises,North America,Retail,Pending,High,29,96922,2023-3-24,Cross-sell,Jane Smith,Service Cloud,Negotiation
+OPP_549,Opportunity 549,Wayne Enterprises,North America,Finance,Closed Lost,Low,41,2691,2023-2-3,Cross-sell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_550,Opportunity 550,Wayne Enterprises,North America,Finance,Closed Lost,Low,48,46917,2024-6-28,Upsell,Michael Jones,Salesforce,Closed Won
+OPP_551,Opportunity 551,LexCorp,North America,Healthcare,Closed Lost,Low,76,21859,2023-7-24,Cross-sell,John Doe,Service Cloud,Qualification
+OPP_552,Opportunity 552,LexCorp,APAC,Retail,Closed Won,High,78,11412,2023-4-18,New Business,Michael Jones,Salesforce,Proposal/Quote
+OPP_553,Opportunity 553,Litware Inc,North America,Technology,Pending,High,81,35344,2024-1-10,Cross-sell,Michael Jones,Service Cloud,Negotiation
+OPP_554,Opportunity 554,LexCorp,South America,Technology,New,Low,29,99556,2023-4-14,New Business,Jane Smith,Salesforce,Proposal/Quote
+OPP_555,Opportunity 555,Wayne Enterprises,South America,Healthcare,Pending,Medium,31,98727,2024-8-27,Upsell,Michael Jones,Service Cloud,Proposal/Quote
+OPP_556,Opportunity 556,Acme Corp,North America,Finance,New,High,40,55192,2023-8-6,New Business,Michael Jones,Salesforce,Closed Won
+OPP_557,Opportunity 557,Wayne Enterprises,North America,Finance,Pending,High,51,16212,2023-3-21,Cross-sell,Jane Smith,Service Cloud,Proposal/Quote
+OPP_558,Opportunity 558,Acme Corp,South America,Finance,Closed Won,Low,55,59879,2023-3-19,Upsell,Michael Jones,Salesforce,Closed Lost
+OPP_559,Opportunity 559,Wayne Enterprises,South America,Finance,Closed Won,Medium,60,63825,2024-10-7,Cross-sell,Jane Smith,Marketing Cloud,Negotiation
+OPP_560,Opportunity 560,LexCorp,EMEA,Technology,Closed Won,Medium,34,18079,2024-4-6,Upsell,Jane Smith,Service Cloud,Proposal/Quote
+OPP_561,Opportunity 561,Wayne Enterprises,APAC,Healthcare,Pending,Low,57,91224,2024-10-21,New Business,John Doe,Marketing Cloud,Closed Won
+OPP_562,Opportunity 562,Acme Corp,APAC,Technology,New,Medium,26,23600,2024-10-4,Upsell,Jane Smith,Marketing Cloud,Closed Won
+OPP_563,Opportunity 563,Wayne Enterprises,EMEA,Finance,Closed Won,Low,64,93052,2024-9-22,Cross-sell,Jane Smith,Salesforce,Qualification
+OPP_564,Opportunity 564,LexCorp,South America,Technology,Closed Lost,Low,89,85773,2024-6-21,Upsell,John Doe,Salesforce,Negotiation
+OPP_565,Opportunity 565,LexCorp,EMEA,Healthcare,Closed Won,Medium,70,37876,2023-1-20,Cross-sell,Jane Smith,Marketing Cloud,Negotiation
+OPP_566,Opportunity 566,Litware Inc,North America,Technology,New,Low,88,64879,2023-12-2,Upsell,Jane Smith,Salesforce,Proposal/Quote
+OPP_567,Opportunity 567,Litware Inc,North America,Retail,Pending,Low,49,26359,2023-10-10,Cross-sell,John Doe,Service Cloud,Negotiation
+OPP_568,Opportunity 568,Litware Inc,South America,Healthcare,New,Low,78,11655,2024-9-18,New Business,Michael Jones,Service Cloud,Closed Won
+OPP_569,Opportunity 569,Litware Inc,North America,Retail,Closed Lost,Medium,87,50976,2023-9-9,Upsell,John Doe,Service Cloud,Closed Lost
+OPP_570,Opportunity 570,Litware Inc,APAC,Healthcare,Closed Won,High,56,15147,2024-12-28,Upsell,John Doe,Marketing Cloud,Qualification
+OPP_571,Opportunity 571,Litware Inc,North America,Healthcare,New,High,33,92704,2024-3-26,New Business,Jane Smith,Marketing Cloud,Negotiation
+OPP_572,Opportunity 572,Wayne Enterprises,South America,Technology,New,Medium,57,24798,2023-2-24,Upsell,John Doe,Salesforce,Proposal/Quote
+OPP_573,Opportunity 573,Acme Corp,EMEA,Technology,New,Medium,71,86718,2023-12-5,Cross-sell,Jane Smith,Salesforce,Closed Lost
+OPP_574,Opportunity 574,Wayne Enterprises,APAC,Technology,Pending,Low,54,8940,2023-2-15,Upsell,John Doe,Salesforce,Closed Lost
+OPP_575,Opportunity 575,LexCorp,APAC,Healthcare,Closed Won,High,56,94733,2023-10-25,Upsell,Jane Smith,Service Cloud,Closed Won
+OPP_576,Opportunity 576,LexCorp,South America,Finance,Closed Lost,Medium,45,30233,2023-4-22,Upsell,Michael Jones,Salesforce,Closed Lost
+OPP_577,Opportunity 577,Litware Inc,APAC,Finance,New,Medium,35,18582,2023-3-7,Upsell,Jane Smith,Marketing Cloud,Closed Won
+OPP_578,Opportunity 578,Wayne Enterprises,South America,Finance,Pending,Medium,31,56700,2023-3-3,New Business,Jane Smith,Marketing Cloud,Closed Lost
+OPP_579,Opportunity 579,Litware Inc,South America,Healthcare,New,Low,42,14219,2024-9-5,Upsell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_580,Opportunity 580,Acme Corp,North America,Technology,Pending,Low,69,45040,2023-8-4,New Business,John Doe,Marketing Cloud,Proposal/Quote
+OPP_581,Opportunity 581,Wayne Enterprises,South America,Healthcare,Closed Lost,Low,24,91557,2023-2-18,Cross-sell,Jane Smith,Service Cloud,Negotiation
+OPP_582,Opportunity 582,Wayne Enterprises,EMEA,Healthcare,Closed Won,Low,60,91725,2023-5-12,Upsell,Michael Jones,Salesforce,Closed Lost
+OPP_583,Opportunity 583,LexCorp,North America,Healthcare,New,High,31,56831,2023-8-27,Cross-sell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_584,Opportunity 584,LexCorp,South America,Finance,Closed Won,Low,45,79154,2024-6-7,New Business,Jane Smith,Service Cloud,Qualification
+OPP_585,Opportunity 585,Acme Corp,APAC,Healthcare,Closed Lost,Medium,46,55328,2023-9-27,Upsell,John Doe,Salesforce,Qualification
+OPP_586,Opportunity 586,Acme Corp,EMEA,Healthcare,Closed Won,Low,79,34251,2023-3-4,Upsell,John Doe,Marketing Cloud,Qualification
+OPP_587,Opportunity 587,Litware Inc,South America,Finance,Closed Won,Medium,50,83663,2024-6-25,New Business,Jane Smith,Service Cloud,Closed Lost
+OPP_588,Opportunity 588,Acme Corp,EMEA,Retail,New,High,35,5744,2024-9-20,Upsell,Jane Smith,Marketing Cloud,Closed Lost
+OPP_589,Opportunity 589,LexCorp,EMEA,Finance,Pending,High,89,54812,2023-2-14,New Business,Michael Jones,Salesforce,Negotiation
+OPP_590,Opportunity 590,LexCorp,North America,Retail,Closed Lost,Medium,48,88660,2024-3-14,New Business,Michael Jones,Service Cloud,Closed Lost
+OPP_591,Opportunity 591,Acme Corp,APAC,Retail,Closed Won,Medium,87,21367,2023-5-15,Cross-sell,Michael Jones,Service Cloud,Proposal/Quote
+OPP_592,Opportunity 592,LexCorp,APAC,Retail,Closed Won,Low,60,47683,2023-10-11,Cross-sell,Michael Jones,Salesforce,Closed Lost
+OPP_593,Opportunity 593,LexCorp,North America,Retail,Pending,Low,46,41723,2023-4-27,Upsell,Jane Smith,Salesforce,Closed Lost
+OPP_594,Opportunity 594,Litware Inc,APAC,Retail,Closed Lost,Low,45,35543,2023-8-20,Cross-sell,Jane Smith,Service Cloud,Negotiation
+OPP_595,Opportunity 595,Litware Inc,APAC,Retail,New,Medium,72,86456,2024-3-14,Upsell,Michael Jones,Service Cloud,Proposal/Quote
+OPP_596,Opportunity 596,Litware Inc,North America,Healthcare,Closed Won,High,59,78677,2024-11-10,Cross-sell,Jane Smith,Salesforce,Qualification
+OPP_597,Opportunity 597,Wayne Enterprises,North America,Finance,Pending,High,44,56985,2024-8-5,New Business,Jane Smith,Salesforce,Closed Won
+OPP_598,Opportunity 598,Acme Corp,North America,Technology,Closed Won,Low,65,31256,2024-7-8,Cross-sell,Michael Jones,Salesforce,Negotiation
+OPP_599,Opportunity 599,Acme Corp,South America,Finance,Closed Won,Medium,29,31328,2024-8-19,Cross-sell,Michael Jones,Marketing Cloud,Qualification
+OPP_600,Opportunity 600,Wayne Enterprises,South America,Technology,Closed Lost,Low,82,36791,2023-12-15,Upsell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_601,Opportunity 601,LexCorp,South America,Technology,New,High,64,84513,2023-9-19,Cross-sell,John Doe,Salesforce,Negotiation
+OPP_602,Opportunity 602,Acme Corp,North America,Retail,New,High,89,64841,2023-12-8,New Business,Jane Smith,Service Cloud,Negotiation
+OPP_603,Opportunity 603,Acme Corp,EMEA,Finance,Pending,Low,39,62381,2023-11-22,Cross-sell,Michael Jones,Service Cloud,Closed Won
+OPP_604,Opportunity 604,Wayne Enterprises,South America,Healthcare,Closed Lost,Low,53,68477,2024-10-16,Upsell,Michael Jones,Salesforce,Closed Won
+OPP_605,Opportunity 605,Acme Corp,EMEA,Healthcare,Pending,High,86,35401,2024-9-17,New Business,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_606,Opportunity 606,LexCorp,North America,Retail,New,Medium,29,96837,2023-11-8,New Business,John Doe,Service Cloud,Qualification
+OPP_607,Opportunity 607,Litware Inc,EMEA,Finance,New,Medium,90,70966,2023-2-8,Cross-sell,Jane Smith,Service Cloud,Proposal/Quote
+OPP_608,Opportunity 608,Litware Inc,EMEA,Finance,Closed Lost,Medium,83,28469,2024-9-19,Upsell,John Doe,Service Cloud,Qualification
+OPP_609,Opportunity 609,LexCorp,APAC,Retail,Closed Lost,Low,60,13546,2023-2-16,New Business,Jane Smith,Marketing Cloud,Closed Won
+OPP_610,Opportunity 610,Litware Inc,APAC,Retail,Closed Lost,High,85,67615,2023-10-6,Upsell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_611,Opportunity 611,Wayne Enterprises,APAC,Healthcare,Closed Won,Medium,27,10996,2023-4-19,Cross-sell,Michael Jones,Service Cloud,Negotiation
+OPP_612,Opportunity 612,Wayne Enterprises,EMEA,Finance,New,Low,80,81262,2024-6-17,New Business,Jane Smith,Salesforce,Negotiation
+OPP_613,Opportunity 613,Wayne Enterprises,North America,Healthcare,Pending,Low,84,10150,2024-12-16,New Business,Michael Jones,Salesforce,Closed Lost
+OPP_614,Opportunity 614,Litware Inc,APAC,Healthcare,New,Medium,73,31434,2023-1-13,Cross-sell,Jane Smith,Marketing Cloud,Qualification
+OPP_615,Opportunity 615,Litware Inc,South America,Technology,Pending,Low,62,71884,2024-11-25,Cross-sell,Michael Jones,Salesforce,Proposal/Quote
+OPP_616,Opportunity 616,Litware Inc,North America,Retail,Closed Won,Medium,38,98223,2023-12-21,Upsell,John Doe,Marketing Cloud,Negotiation
+OPP_617,Opportunity 617,Wayne Enterprises,EMEA,Technology,Closed Lost,Medium,29,41009,2023-10-10,Cross-sell,Jane Smith,Salesforce,Proposal/Quote
+OPP_618,Opportunity 618,LexCorp,APAC,Healthcare,Closed Lost,Medium,77,22245,2024-3-27,Upsell,Michael Jones,Salesforce,Proposal/Quote
+OPP_619,Opportunity 619,Litware Inc,North America,Healthcare,Closed Lost,Low,71,6489,2023-4-7,New Business,John Doe,Service Cloud,Closed Won
+OPP_620,Opportunity 620,Acme Corp,EMEA,Technology,Closed Won,Low,83,58757,2023-3-8,Upsell,Jane Smith,Service Cloud,Qualification
+OPP_621,Opportunity 621,Acme Corp,South America,Retail,New,Medium,39,46663,2023-8-24,Upsell,Jane Smith,Salesforce,Closed Lost
+OPP_622,Opportunity 622,Acme Corp,EMEA,Healthcare,Closed Lost,High,33,2746,2023-2-3,New Business,Jane Smith,Salesforce,Negotiation
+OPP_623,Opportunity 623,LexCorp,EMEA,Healthcare,Closed Won,Low,63,38704,2023-6-9,New Business,John Doe,Marketing Cloud,Qualification
+OPP_624,Opportunity 624,Wayne Enterprises,EMEA,Retail,New,Medium,80,39615,2023-6-23,Upsell,Michael Jones,Salesforce,Negotiation
+OPP_625,Opportunity 625,Litware Inc,North America,Healthcare,New,Low,88,93802,2023-5-22,New Business,John Doe,Service Cloud,Qualification
+OPP_626,Opportunity 626,Litware Inc,North America,Technology,Pending,High,33,23814,2023-11-14,Cross-sell,Michael Jones,Service Cloud,Qualification
+OPP_627,Opportunity 627,Wayne Enterprises,North America,Finance,New,Low,69,74432,2024-4-3,Upsell,Michael Jones,Salesforce,Proposal/Quote
+OPP_628,Opportunity 628,Litware Inc,South America,Healthcare,Closed Lost,Low,75,84928,2023-5-19,Upsell,Michael Jones,Service Cloud,Qualification
+OPP_629,Opportunity 629,LexCorp,South America,Technology,Closed Won,Medium,52,96764,2024-7-11,Upsell,Jane Smith,Service Cloud,Qualification
+OPP_630,Opportunity 630,LexCorp,South America,Technology,Closed Lost,Medium,69,28138,2023-3-14,Cross-sell,John Doe,Service Cloud,Closed Lost
+OPP_631,Opportunity 631,Acme Corp,North America,Technology,New,Medium,88,87591,2023-9-4,Cross-sell,Michael Jones,Salesforce,Closed Lost
+OPP_632,Opportunity 632,Wayne Enterprises,South America,Retail,New,Low,45,89608,2023-6-23,Upsell,John Doe,Service Cloud,Proposal/Quote
+OPP_633,Opportunity 633,LexCorp,North America,Healthcare,Pending,Low,27,22803,2023-12-23,Upsell,John Doe,Service Cloud,Proposal/Quote
+OPP_634,Opportunity 634,LexCorp,APAC,Healthcare,Closed Won,Low,47,48774,2023-10-13,Upsell,Jane Smith,Marketing Cloud,Negotiation
+OPP_635,Opportunity 635,LexCorp,APAC,Technology,New,Medium,41,26688,2023-4-17,Upsell,John Doe,Salesforce,Closed Won
+OPP_636,Opportunity 636,Acme Corp,South America,Healthcare,Pending,Medium,63,27370,2023-8-2,New Business,John Doe,Service Cloud,Closed Won
+OPP_637,Opportunity 637,LexCorp,APAC,Finance,Closed Won,Medium,20,46283,2024-3-22,New Business,John Doe,Marketing Cloud,Closed Won
+OPP_638,Opportunity 638,Acme Corp,EMEA,Retail,Closed Lost,Low,88,46422,2023-3-28,Upsell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_639,Opportunity 639,LexCorp,APAC,Technology,Closed Won,Low,75,91955,2023-7-24,Upsell,John Doe,Service Cloud,Closed Won
+OPP_640,Opportunity 640,Wayne Enterprises,EMEA,Finance,New,High,64,54666,2024-3-12,New Business,John Doe,Service Cloud,Closed Won
+OPP_641,Opportunity 641,LexCorp,APAC,Finance,New,High,66,6312,2024-3-7,New Business,John Doe,Salesforce,Negotiation
+OPP_642,Opportunity 642,Wayne Enterprises,South America,Finance,Closed Lost,High,36,18221,2024-2-15,New Business,Jane Smith,Salesforce,Qualification
+OPP_643,Opportunity 643,Wayne Enterprises,EMEA,Technology,Pending,Medium,79,98508,2023-1-12,Upsell,Michael Jones,Marketing Cloud,Negotiation
+OPP_644,Opportunity 644,Wayne Enterprises,North America,Retail,Closed Won,High,24,12459,2023-8-15,Cross-sell,Michael Jones,Service Cloud,Closed Won
+OPP_645,Opportunity 645,Wayne Enterprises,APAC,Retail,Pending,High,82,27336,2023-2-19,Cross-sell,Jane Smith,Service Cloud,Qualification
+OPP_646,Opportunity 646,Acme Corp,North America,Finance,Closed Lost,Low,49,47627,2023-2-12,New Business,Jane Smith,Service Cloud,Negotiation
+OPP_647,Opportunity 647,Acme Corp,North America,Retail,New,High,36,38877,2023-1-16,New Business,Michael Jones,Salesforce,Qualification
+OPP_648,Opportunity 648,Acme Corp,APAC,Retail,Closed Lost,Medium,50,80381,2024-8-27,Upsell,John Doe,Service Cloud,Negotiation
+OPP_649,Opportunity 649,Acme Corp,South America,Finance,Closed Lost,High,57,15131,2023-7-12,New Business,Jane Smith,Salesforce,Negotiation
+OPP_650,Opportunity 650,LexCorp,North America,Finance,New,High,56,4140,2024-4-12,Cross-sell,John Doe,Salesforce,Qualification
+OPP_651,Opportunity 651,Litware Inc,APAC,Finance,New,Medium,87,37499,2024-3-3,Upsell,Michael Jones,Service Cloud,Negotiation
+OPP_652,Opportunity 652,Acme Corp,South America,Healthcare,Pending,Low,56,13502,2023-2-10,Upsell,Jane Smith,Marketing Cloud,Qualification
+OPP_653,Opportunity 653,Wayne Enterprises,APAC,Retail,Closed Lost,High,57,95489,2023-4-15,New Business,John Doe,Service Cloud,Closed Lost
+OPP_654,Opportunity 654,Wayne Enterprises,EMEA,Retail,New,High,45,23925,2023-4-11,New Business,Michael Jones,Salesforce,Closed Won
+OPP_655,Opportunity 655,Wayne Enterprises,EMEA,Healthcare,Closed Won,Low,83,34500,2024-5-7,New Business,Michael Jones,Marketing Cloud,Closed Lost
+OPP_656,Opportunity 656,LexCorp,North America,Retail,Closed Won,Medium,88,5556,2023-3-3,New Business,John Doe,Service Cloud,Qualification
+OPP_657,Opportunity 657,Acme Corp,North America,Technology,Closed Lost,Medium,47,46473,2023-6-20,New Business,John Doe,Marketing Cloud,Closed Lost
+OPP_658,Opportunity 658,Acme Corp,EMEA,Retail,Closed Won,Low,55,8782,2024-12-15,Cross-sell,Jane Smith,Service Cloud,Qualification
+OPP_659,Opportunity 659,Litware Inc,APAC,Finance,Pending,Medium,69,13443,2024-5-24,New Business,Jane Smith,Service Cloud,Closed Won
+OPP_660,Opportunity 660,Acme Corp,EMEA,Finance,New,High,33,82420,2024-2-20,Upsell,John Doe,Salesforce,Closed Won
+OPP_661,Opportunity 661,Wayne Enterprises,APAC,Finance,Closed Lost,High,77,64782,2024-4-15,Cross-sell,John Doe,Service Cloud,Proposal/Quote
+OPP_662,Opportunity 662,Litware Inc,South America,Technology,Closed Won,High,29,20831,2024-12-17,Cross-sell,John Doe,Salesforce,Qualification
+OPP_663,Opportunity 663,Wayne Enterprises,APAC,Technology,New,Low,23,62159,2023-11-23,Cross-sell,John Doe,Service Cloud,Closed Won
+OPP_664,Opportunity 664,LexCorp,North America,Healthcare,Pending,Low,85,38678,2024-11-5,Upsell,John Doe,Salesforce,Qualification
+OPP_665,Opportunity 665,Wayne Enterprises,APAC,Technology,Closed Won,Medium,87,54891,2024-2-26,Upsell,Michael Jones,Marketing Cloud,Qualification
+OPP_666,Opportunity 666,Litware Inc,EMEA,Technology,Pending,Medium,55,29653,2024-8-5,Upsell,John Doe,Service Cloud,Proposal/Quote
+OPP_667,Opportunity 667,Litware Inc,North America,Healthcare,Pending,Low,25,24087,2023-11-20,New Business,Jane Smith,Service Cloud,Negotiation
+OPP_668,Opportunity 668,Acme Corp,APAC,Technology,Closed Lost,Low,40,70458,2023-12-5,Upsell,John Doe,Salesforce,Proposal/Quote
+OPP_669,Opportunity 669,Wayne Enterprises,North America,Finance,Pending,High,72,4909,2024-6-24,New Business,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_670,Opportunity 670,LexCorp,South America,Finance,New,Low,72,73127,2024-2-12,Cross-sell,Michael Jones,Salesforce,Closed Won
+OPP_671,Opportunity 671,Litware Inc,APAC,Technology,New,Medium,74,46023,2024-7-12,Cross-sell,John Doe,Salesforce,Qualification
+OPP_672,Opportunity 672,LexCorp,South America,Retail,Pending,Low,31,87846,2023-4-13,New Business,John Doe,Salesforce,Closed Lost
+OPP_673,Opportunity 673,Acme Corp,North America,Finance,Closed Lost,Medium,24,2425,2024-2-12,Cross-sell,John Doe,Marketing Cloud,Closed Won
+OPP_674,Opportunity 674,Acme Corp,North America,Healthcare,New,Medium,34,87110,2024-4-21,Upsell,Michael Jones,Marketing Cloud,Negotiation
+OPP_675,Opportunity 675,LexCorp,North America,Finance,Closed Won,Low,36,66588,2024-3-8,New Business,Jane Smith,Marketing Cloud,Closed Won
+OPP_676,Opportunity 676,Acme Corp,North America,Healthcare,Pending,Low,86,65153,2023-11-8,New Business,John Doe,Marketing Cloud,Closed Won
+OPP_677,Opportunity 677,Acme Corp,South America,Retail,Closed Won,Low,41,97315,2023-8-20,Cross-sell,John Doe,Salesforce,Qualification
+OPP_678,Opportunity 678,Acme Corp,APAC,Healthcare,Closed Won,Medium,71,40418,2024-1-4,Cross-sell,John Doe,Marketing Cloud,Negotiation
+OPP_679,Opportunity 679,Litware Inc,EMEA,Healthcare,Closed Won,High,60,95455,2024-3-5,New Business,Jane Smith,Salesforce,Closed Lost
+OPP_680,Opportunity 680,LexCorp,South America,Technology,New,High,24,51696,2024-6-19,New Business,John Doe,Marketing Cloud,Proposal/Quote
+OPP_681,Opportunity 681,Acme Corp,EMEA,Healthcare,Closed Lost,High,80,85685,2024-12-18,Cross-sell,John Doe,Service Cloud,Qualification
+OPP_682,Opportunity 682,LexCorp,North America,Healthcare,Closed Won,Medium,69,39431,2024-8-20,Cross-sell,Jane Smith,Marketing Cloud,Qualification
+OPP_683,Opportunity 683,Litware Inc,South America,Healthcare,Closed Won,Medium,47,7294,2023-7-1,Cross-sell,Jane Smith,Marketing Cloud,Closed Lost
+OPP_684,Opportunity 684,Acme Corp,North America,Technology,Closed Won,High,27,9773,2024-2-1,Upsell,John Doe,Marketing Cloud,Closed Won
+OPP_685,Opportunity 685,LexCorp,EMEA,Technology,Closed Lost,Medium,49,50718,2023-5-15,Cross-sell,Jane Smith,Salesforce,Negotiation
+OPP_686,Opportunity 686,Acme Corp,APAC,Healthcare,Closed Won,Low,56,15564,2024-9-12,Cross-sell,John Doe,Service Cloud,Closed Lost
+OPP_687,Opportunity 687,Acme Corp,EMEA,Retail,New,Medium,36,60576,2023-9-24,New Business,Michael Jones,Service Cloud,Closed Won
+OPP_688,Opportunity 688,Litware Inc,EMEA,Retail,Closed Lost,Low,32,81605,2023-12-7,New Business,Jane Smith,Salesforce,Qualification
+OPP_689,Opportunity 689,LexCorp,EMEA,Finance,Closed Won,High,54,11537,2023-2-16,Upsell,Michael Jones,Marketing Cloud,Closed Won
+OPP_690,Opportunity 690,Wayne Enterprises,South America,Healthcare,New,Medium,69,50084,2024-12-15,Upsell,Jane Smith,Service Cloud,Proposal/Quote
+OPP_691,Opportunity 691,Acme Corp,APAC,Technology,New,Medium,20,74477,2024-6-11,Upsell,Jane Smith,Service Cloud,Negotiation
+OPP_692,Opportunity 692,Acme Corp,APAC,Finance,Closed Lost,Medium,45,36749,2024-4-23,Cross-sell,Michael Jones,Marketing Cloud,Negotiation
+OPP_693,Opportunity 693,Litware Inc,APAC,Finance,Closed Won,Low,20,98696,2024-7-10,New Business,Michael Jones,Salesforce,Qualification
+OPP_694,Opportunity 694,Acme Corp,APAC,Healthcare,New,High,23,85731,2024-6-9,Cross-sell,Michael Jones,Service Cloud,Qualification
+OPP_695,Opportunity 695,Acme Corp,APAC,Retail,New,Low,79,90584,2023-3-2,Upsell,John Doe,Salesforce,Negotiation
+OPP_696,Opportunity 696,LexCorp,North America,Technology,Pending,High,80,74136,2023-12-9,Cross-sell,Jane Smith,Salesforce,Qualification
+OPP_697,Opportunity 697,Acme Corp,APAC,Technology,Pending,Low,44,97145,2024-11-15,New Business,John Doe,Salesforce,Proposal/Quote
+OPP_698,Opportunity 698,Litware Inc,EMEA,Retail,Closed Won,High,40,88870,2024-12-16,New Business,Michael Jones,Service Cloud,Negotiation
+OPP_699,Opportunity 699,Litware Inc,EMEA,Finance,Closed Lost,Medium,65,33599,2023-5-1,Cross-sell,Michael Jones,Salesforce,Qualification
+OPP_700,Opportunity 700,Litware Inc,North America,Retail,Pending,Low,32,85764,2023-10-2,Cross-sell,Jane Smith,Salesforce,Proposal/Quote
+OPP_701,Opportunity 701,Litware Inc,EMEA,Technology,Closed Won,High,40,23723,2024-3-14,Cross-sell,John Doe,Marketing Cloud,Proposal/Quote
+OPP_702,Opportunity 702,Acme Corp,South America,Retail,Closed Won,Medium,56,17161,2023-11-5,Cross-sell,John Doe,Salesforce,Qualification
+OPP_703,Opportunity 703,Litware Inc,EMEA,Finance,Closed Lost,High,87,56839,2024-8-18,Cross-sell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_704,Opportunity 704,Acme Corp,South America,Healthcare,New,Low,66,29002,2023-7-9,New Business,John Doe,Marketing Cloud,Negotiation
+OPP_705,Opportunity 705,LexCorp,APAC,Healthcare,New,Low,34,57113,2024-6-2,New Business,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_706,Opportunity 706,Wayne Enterprises,APAC,Finance,Pending,Low,72,62676,2024-8-24,Upsell,Jane Smith,Service Cloud,Qualification
+OPP_707,Opportunity 707,LexCorp,North America,Technology,Closed Won,Medium,71,71857,2024-11-11,Cross-sell,John Doe,Salesforce,Qualification
+OPP_708,Opportunity 708,Wayne Enterprises,EMEA,Technology,Closed Won,High,76,98951,2024-10-24,Cross-sell,Michael Jones,Service Cloud,Proposal/Quote
+OPP_709,Opportunity 709,LexCorp,South America,Finance,Pending,Medium,83,99073,2024-2-8,Upsell,Michael Jones,Service Cloud,Negotiation
+OPP_710,Opportunity 710,Acme Corp,North America,Finance,Closed Won,High,68,58915,2023-6-14,Upsell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_711,Opportunity 711,LexCorp,South America,Healthcare,Closed Lost,Low,56,34435,2024-11-12,Cross-sell,John Doe,Marketing Cloud,Closed Won
+OPP_712,Opportunity 712,LexCorp,EMEA,Healthcare,New,Medium,31,23072,2023-1-23,New Business,Michael Jones,Marketing Cloud,Closed Won
+OPP_713,Opportunity 713,Wayne Enterprises,EMEA,Technology,Closed Lost,Low,29,74002,2023-1-15,Upsell,John Doe,Service Cloud,Closed Won
+OPP_714,Opportunity 714,Acme Corp,EMEA,Retail,New,High,59,95612,2024-5-2,Upsell,Michael Jones,Salesforce,Closed Won
+OPP_715,Opportunity 715,Litware Inc,APAC,Technology,Closed Lost,High,83,22398,2023-12-19,New Business,Jane Smith,Marketing Cloud,Qualification
+OPP_716,Opportunity 716,Litware Inc,EMEA,Retail,Closed Won,Low,58,92716,2023-12-21,Cross-sell,Michael Jones,Marketing Cloud,Negotiation
+OPP_717,Opportunity 717,Wayne Enterprises,North America,Technology,Closed Lost,Low,26,92595,2024-7-18,Cross-sell,Michael Jones,Service Cloud,Closed Won
+OPP_718,Opportunity 718,LexCorp,South America,Finance,Pending,Medium,86,82221,2024-11-4,Cross-sell,Jane Smith,Service Cloud,Negotiation
+OPP_719,Opportunity 719,Litware Inc,North America,Finance,Pending,High,86,6589,2023-3-24,Upsell,Jane Smith,Service Cloud,Negotiation
+OPP_720,Opportunity 720,Litware Inc,South America,Healthcare,New,Low,56,99623,2023-5-8,Cross-sell,Jane Smith,Service Cloud,Closed Won
+OPP_721,Opportunity 721,Wayne Enterprises,North America,Technology,New,Medium,77,53603,2023-1-26,Cross-sell,Michael Jones,Salesforce,Qualification
+OPP_722,Opportunity 722,Litware Inc,EMEA,Healthcare,Closed Won,Medium,56,1239,2023-1-11,Upsell,John Doe,Marketing Cloud,Closed Won
+OPP_723,Opportunity 723,Litware Inc,North America,Finance,Closed Won,Medium,71,25977,2024-9-20,Upsell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_724,Opportunity 724,Acme Corp,North America,Finance,Closed Won,Medium,90,82068,2024-10-12,Cross-sell,Michael Jones,Marketing Cloud,Negotiation
+OPP_725,Opportunity 725,Acme Corp,South America,Technology,Pending,Medium,54,59887,2024-1-21,Upsell,Michael Jones,Salesforce,Qualification
+OPP_726,Opportunity 726,LexCorp,EMEA,Healthcare,New,Medium,23,15065,2024-3-23,Upsell,Michael Jones,Salesforce,Closed Lost
+OPP_727,Opportunity 727,Acme Corp,APAC,Technology,New,High,26,67459,2023-8-23,New Business,John Doe,Salesforce,Negotiation
+OPP_728,Opportunity 728,LexCorp,EMEA,Technology,New,Low,73,5349,2024-11-8,New Business,Jane Smith,Salesforce,Negotiation
+OPP_729,Opportunity 729,Litware Inc,EMEA,Technology,Closed Lost,Medium,38,30355,2023-3-20,New Business,Jane Smith,Salesforce,Closed Won
+OPP_730,Opportunity 730,Acme Corp,EMEA,Healthcare,Closed Won,Low,24,52102,2023-2-22,Cross-sell,John Doe,Service Cloud,Qualification
+OPP_731,Opportunity 731,LexCorp,APAC,Finance,Closed Lost,Medium,32,62279,2024-6-24,Upsell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_732,Opportunity 732,Litware Inc,North America,Technology,Pending,Low,57,51050,2024-7-3,New Business,Jane Smith,Salesforce,Closed Lost
+OPP_733,Opportunity 733,Acme Corp,North America,Technology,New,Medium,33,80044,2024-11-17,Cross-sell,Jane Smith,Salesforce,Proposal/Quote
+OPP_734,Opportunity 734,Wayne Enterprises,South America,Healthcare,Closed Won,Medium,64,78175,2024-11-3,Upsell,Jane Smith,Marketing Cloud,Qualification
+OPP_735,Opportunity 735,Litware Inc,EMEA,Healthcare,Closed Lost,High,34,69929,2024-11-16,Upsell,Michael Jones,Marketing Cloud,Closed Won
+OPP_736,Opportunity 736,Litware Inc,South America,Technology,Closed Won,High,58,25394,2023-3-22,New Business,John Doe,Salesforce,Closed Won
+OPP_737,Opportunity 737,Litware Inc,South America,Finance,Pending,High,41,25253,2023-12-6,Upsell,Michael Jones,Marketing Cloud,Negotiation
+OPP_738,Opportunity 738,Litware Inc,North America,Finance,Closed Won,Low,28,55025,2023-1-11,New Business,John Doe,Service Cloud,Closed Lost
+OPP_739,Opportunity 739,Wayne Enterprises,APAC,Healthcare,Closed Won,Medium,41,32744,2023-9-9,Upsell,John Doe,Salesforce,Proposal/Quote
+OPP_740,Opportunity 740,Wayne Enterprises,North America,Technology,Pending,Medium,82,30915,2024-2-5,Upsell,Jane Smith,Salesforce,Qualification
+OPP_741,Opportunity 741,Acme Corp,North America,Healthcare,Closed Lost,Low,34,33267,2023-3-17,Upsell,John Doe,Marketing Cloud,Qualification
+OPP_742,Opportunity 742,Wayne Enterprises,APAC,Healthcare,New,Low,88,85438,2023-1-3,New Business,Michael Jones,Marketing Cloud,Qualification
+OPP_743,Opportunity 743,LexCorp,North America,Finance,Pending,High,85,31506,2023-10-5,New Business,Michael Jones,Salesforce,Proposal/Quote
+OPP_744,Opportunity 744,Litware Inc,North America,Finance,Pending,Low,24,60598,2023-12-21,Cross-sell,John Doe,Service Cloud,Negotiation
+OPP_745,Opportunity 745,LexCorp,APAC,Technology,Closed Lost,High,58,50696,2024-12-26,Upsell,John Doe,Service Cloud,Proposal/Quote
+OPP_746,Opportunity 746,Acme Corp,North America,Healthcare,Pending,Low,64,5242,2023-1-24,Cross-sell,Jane Smith,Marketing Cloud,Closed Won
+OPP_747,Opportunity 747,Wayne Enterprises,South America,Retail,Closed Lost,Medium,87,38919,2024-1-28,Cross-sell,John Doe,Salesforce,Closed Won
+OPP_748,Opportunity 748,Wayne Enterprises,APAC,Retail,Pending,Low,58,56854,2023-6-5,Upsell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_749,Opportunity 749,Litware Inc,APAC,Technology,Pending,High,83,66016,2023-5-13,New Business,John Doe,Service Cloud,Closed Won
+OPP_750,Opportunity 750,Litware Inc,APAC,Finance,Closed Lost,Medium,32,77356,2023-2-8,Upsell,Jane Smith,Marketing Cloud,Closed Lost
+OPP_751,Opportunity 751,LexCorp,EMEA,Finance,Closed Lost,High,81,79273,2023-7-28,Cross-sell,John Doe,Marketing Cloud,Closed Lost
+OPP_752,Opportunity 752,Acme Corp,APAC,Retail,Closed Won,Medium,21,99849,2023-5-12,Cross-sell,Jane Smith,Salesforce,Closed Lost
+OPP_753,Opportunity 753,LexCorp,APAC,Technology,New,Medium,77,67988,2023-8-25,Cross-sell,John Doe,Marketing Cloud,Qualification
+OPP_754,Opportunity 754,Litware Inc,South America,Retail,Pending,High,44,14727,2023-2-23,Cross-sell,John Doe,Service Cloud,Proposal/Quote
+OPP_755,Opportunity 755,Acme Corp,North America,Retail,Closed Lost,High,53,30328,2023-7-10,Cross-sell,Michael Jones,Service Cloud,Closed Lost
+OPP_756,Opportunity 756,Acme Corp,North America,Technology,New,Low,26,91987,2024-6-25,New Business,John Doe,Salesforce,Closed Won
+OPP_757,Opportunity 757,Acme Corp,South America,Healthcare,New,High,74,42768,2023-1-7,Upsell,Jane Smith,Marketing Cloud,Closed Lost
+OPP_758,Opportunity 758,Wayne Enterprises,APAC,Retail,Pending,Medium,61,48659,2024-8-6,Upsell,Michael Jones,Service Cloud,Negotiation
+OPP_759,Opportunity 759,Litware Inc,North America,Finance,New,High,64,94902,2023-8-19,Upsell,Michael Jones,Salesforce,Proposal/Quote
+OPP_760,Opportunity 760,Wayne Enterprises,North America,Technology,New,High,29,14121,2024-9-27,Upsell,Jane Smith,Service Cloud,Negotiation
+OPP_761,Opportunity 761,LexCorp,APAC,Finance,Closed Lost,Low,23,87049,2023-1-20,Upsell,John Doe,Marketing Cloud,Negotiation
+OPP_762,Opportunity 762,LexCorp,North America,Retail,New,Medium,58,92721,2024-5-18,Cross-sell,Jane Smith,Marketing Cloud,Closed Lost
+OPP_763,Opportunity 763,Wayne Enterprises,North America,Technology,Pending,Low,59,51199,2023-1-9,New Business,Michael Jones,Salesforce,Negotiation
+OPP_764,Opportunity 764,Litware Inc,APAC,Technology,Pending,Medium,61,78561,2023-3-4,Upsell,Jane Smith,Service Cloud,Proposal/Quote
+OPP_765,Opportunity 765,Wayne Enterprises,APAC,Finance,Pending,High,38,40338,2024-12-20,New Business,Michael Jones,Marketing Cloud,Closed Won
+OPP_766,Opportunity 766,Litware Inc,South America,Technology,Pending,High,24,12294,2023-11-4,New Business,John Doe,Marketing Cloud,Closed Won
+OPP_767,Opportunity 767,Wayne Enterprises,North America,Retail,Closed Lost,Medium,34,47605,2023-4-14,New Business,John Doe,Marketing Cloud,Closed Lost
+OPP_768,Opportunity 768,Litware Inc,APAC,Retail,New,Medium,49,80436,2023-5-1,Upsell,Jane Smith,Marketing Cloud,Closed Won
+OPP_769,Opportunity 769,Litware Inc,South America,Technology,New,Medium,65,3383,2023-1-4,New Business,Michael Jones,Salesforce,Closed Won
+OPP_770,Opportunity 770,Acme Corp,EMEA,Finance,Closed Lost,High,65,89881,2024-2-6,New Business,Jane Smith,Service Cloud,Qualification
+OPP_771,Opportunity 771,Litware Inc,South America,Finance,Pending,Medium,28,34186,2023-1-14,Cross-sell,Jane Smith,Salesforce,Negotiation
+OPP_772,Opportunity 772,Litware Inc,APAC,Technology,Closed Lost,Low,48,87430,2024-5-25,Upsell,John Doe,Salesforce,Closed Won
+OPP_773,Opportunity 773,Wayne Enterprises,EMEA,Finance,Closed Won,Low,24,94402,2023-6-26,Cross-sell,Jane Smith,Marketing Cloud,Closed Lost
+OPP_774,Opportunity 774,Acme Corp,APAC,Healthcare,New,High,77,76687,2024-5-7,New Business,Michael Jones,Salesforce,Closed Lost
+OPP_775,Opportunity 775,Litware Inc,APAC,Healthcare,Closed Lost,High,42,33802,2024-7-22,Upsell,John Doe,Marketing Cloud,Qualification
+OPP_776,Opportunity 776,LexCorp,South America,Healthcare,New,Low,81,56193,2024-1-26,Upsell,Michael Jones,Salesforce,Closed Lost
+OPP_777,Opportunity 777,Acme Corp,North America,Healthcare,Closed Won,Low,47,1509,2024-6-24,Cross-sell,Jane Smith,Marketing Cloud,Closed Won
+OPP_778,Opportunity 778,LexCorp,North America,Healthcare,Pending,Medium,35,33622,2023-10-23,Cross-sell,John Doe,Service Cloud,Negotiation
+OPP_779,Opportunity 779,Acme Corp,APAC,Finance,New,High,87,66501,2023-9-21,Cross-sell,John Doe,Service Cloud,Closed Lost
+OPP_780,Opportunity 780,Acme Corp,APAC,Technology,New,High,20,4844,2024-4-17,Cross-sell,Jane Smith,Service Cloud,Qualification
+OPP_781,Opportunity 781,Acme Corp,South America,Finance,Closed Lost,Low,27,23608,2024-8-10,New Business,Michael Jones,Marketing Cloud,Closed Won
+OPP_782,Opportunity 782,Wayne Enterprises,South America,Finance,Closed Lost,High,37,50987,2024-12-28,Upsell,Michael Jones,Salesforce,Proposal/Quote
+OPP_783,Opportunity 783,Litware Inc,South America,Healthcare,Closed Won,Low,81,99115,2024-6-17,New Business,Jane Smith,Salesforce,Closed Lost
+OPP_784,Opportunity 784,Litware Inc,APAC,Retail,Closed Lost,Low,22,83034,2023-11-26,Cross-sell,John Doe,Marketing Cloud,Negotiation
+OPP_785,Opportunity 785,Acme Corp,APAC,Finance,Pending,Low,23,75158,2024-4-7,Cross-sell,John Doe,Service Cloud,Qualification
+OPP_786,Opportunity 786,Wayne Enterprises,South America,Technology,Pending,Low,75,29044,2024-3-1,New Business,Jane Smith,Service Cloud,Negotiation
+OPP_787,Opportunity 787,LexCorp,North America,Technology,Closed Won,Low,63,87514,2024-3-24,Upsell,Michael Jones,Marketing Cloud,Qualification
+OPP_788,Opportunity 788,Acme Corp,South America,Finance,New,Medium,77,71031,2023-5-2,New Business,Michael Jones,Salesforce,Qualification
+OPP_789,Opportunity 789,Acme Corp,South America,Retail,New,Medium,24,94511,2023-10-2,Upsell,Michael Jones,Marketing Cloud,Negotiation
+OPP_790,Opportunity 790,LexCorp,North America,Technology,Closed Lost,Medium,90,26966,2023-7-6,New Business,Michael Jones,Service Cloud,Closed Won
+OPP_791,Opportunity 791,LexCorp,South America,Retail,Closed Won,High,60,28995,2023-2-13,New Business,Michael Jones,Service Cloud,Negotiation
+OPP_792,Opportunity 792,Litware Inc,North America,Technology,Closed Lost,Medium,64,36423,2024-6-28,Upsell,Michael Jones,Service Cloud,Qualification
+OPP_793,Opportunity 793,Wayne Enterprises,North America,Technology,Pending,High,59,73103,2023-8-26,Cross-sell,Michael Jones,Salesforce,Qualification
+OPP_794,Opportunity 794,Litware Inc,APAC,Finance,New,Low,88,40278,2023-10-28,Cross-sell,Michael Jones,Service Cloud,Closed Won
+OPP_795,Opportunity 795,LexCorp,North America,Healthcare,New,Low,47,10364,2023-8-2,New Business,John Doe,Marketing Cloud,Closed Won
+OPP_796,Opportunity 796,Litware Inc,North America,Healthcare,Closed Won,High,41,68198,2023-10-24,Cross-sell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_797,Opportunity 797,LexCorp,EMEA,Technology,Closed Won,Medium,46,42729,2023-6-4,Cross-sell,John Doe,Marketing Cloud,Negotiation
+OPP_798,Opportunity 798,Wayne Enterprises,South America,Retail,Pending,High,45,85174,2023-10-26,New Business,Michael Jones,Service Cloud,Closed Lost
+OPP_799,Opportunity 799,Wayne Enterprises,South America,Finance,Closed Won,High,55,36456,2024-6-12,Upsell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_800,Opportunity 800,LexCorp,South America,Healthcare,Closed Won,Low,85,46110,2023-7-2,Cross-sell,Jane Smith,Marketing Cloud,Closed Lost
+OPP_801,Opportunity 801,LexCorp,APAC,Technology,New,Medium,56,53108,2023-11-24,New Business,Michael Jones,Service Cloud,Closed Won
+OPP_802,Opportunity 802,Wayne Enterprises,North America,Technology,Closed Won,High,54,56761,2024-3-28,Cross-sell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_803,Opportunity 803,Wayne Enterprises,APAC,Finance,Closed Lost,Low,25,33576,2023-8-4,Cross-sell,Michael Jones,Salesforce,Closed Won
+OPP_804,Opportunity 804,Wayne Enterprises,APAC,Finance,New,Medium,67,91063,2024-2-16,Cross-sell,Michael Jones,Service Cloud,Qualification
+OPP_805,Opportunity 805,Litware Inc,EMEA,Finance,New,Medium,49,9614,2024-12-11,Cross-sell,John Doe,Salesforce,Closed Won
+OPP_806,Opportunity 806,Wayne Enterprises,South America,Finance,Pending,Medium,37,61004,2024-9-24,Upsell,John Doe,Service Cloud,Proposal/Quote
+OPP_807,Opportunity 807,Litware Inc,EMEA,Retail,Pending,High,61,98630,2024-5-12,New Business,Michael Jones,Service Cloud,Qualification
+OPP_808,Opportunity 808,Acme Corp,North America,Technology,Closed Won,Medium,36,74081,2024-10-17,New Business,Michael Jones,Marketing Cloud,Qualification
+OPP_809,Opportunity 809,LexCorp,APAC,Healthcare,Pending,Medium,70,76528,2024-7-17,New Business,John Doe,Service Cloud,Closed Won
+OPP_810,Opportunity 810,Wayne Enterprises,EMEA,Retail,New,High,64,69523,2024-12-21,New Business,Jane Smith,Salesforce,Negotiation
+OPP_811,Opportunity 811,Acme Corp,EMEA,Retail,Closed Lost,Low,20,89593,2023-9-13,Cross-sell,John Doe,Salesforce,Qualification
+OPP_812,Opportunity 812,Litware Inc,EMEA,Healthcare,Closed Lost,Low,22,76749,2024-12-1,Cross-sell,John Doe,Service Cloud,Closed Lost
+OPP_813,Opportunity 813,Wayne Enterprises,North America,Healthcare,Closed Won,High,79,81355,2024-1-15,Cross-sell,John Doe,Salesforce,Proposal/Quote
+OPP_814,Opportunity 814,Litware Inc,North America,Retail,Closed Lost,Low,22,9237,2024-10-3,New Business,John Doe,Service Cloud,Qualification
+OPP_815,Opportunity 815,Litware Inc,North America,Finance,Closed Won,High,63,9892,2024-4-21,Upsell,Michael Jones,Salesforce,Closed Won
+OPP_816,Opportunity 816,Wayne Enterprises,South America,Healthcare,Closed Lost,Medium,50,22383,2024-2-12,New Business,John Doe,Salesforce,Negotiation
+OPP_817,Opportunity 817,Wayne Enterprises,APAC,Technology,Closed Lost,Low,50,30765,2023-1-11,Cross-sell,Jane Smith,Salesforce,Closed Won
+OPP_818,Opportunity 818,LexCorp,North America,Technology,Closed Lost,Low,32,41986,2024-9-15,Upsell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_819,Opportunity 819,Acme Corp,North America,Retail,Pending,Medium,50,91708,2024-6-18,Cross-sell,Jane Smith,Service Cloud,Negotiation
+OPP_820,Opportunity 820,Acme Corp,North America,Technology,Closed Lost,Medium,43,9908,2024-5-4,Upsell,Michael Jones,Service Cloud,Negotiation
+OPP_821,Opportunity 821,Litware Inc,APAC,Technology,Pending,Medium,85,41301,2024-12-24,Cross-sell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_822,Opportunity 822,LexCorp,North America,Retail,Closed Won,High,25,65640,2023-2-11,New Business,Jane Smith,Service Cloud,Proposal/Quote
+OPP_823,Opportunity 823,Litware Inc,North America,Technology,Pending,High,39,32100,2024-6-2,Upsell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_824,Opportunity 824,LexCorp,North America,Technology,Closed Lost,High,84,67468,2024-12-10,Cross-sell,Jane Smith,Service Cloud,Closed Won
+OPP_825,Opportunity 825,Wayne Enterprises,South America,Technology,New,Low,76,81960,2024-8-7,New Business,John Doe,Marketing Cloud,Closed Lost
+OPP_826,Opportunity 826,Acme Corp,South America,Technology,Closed Won,Low,47,35902,2024-3-19,Cross-sell,John Doe,Salesforce,Proposal/Quote
+OPP_827,Opportunity 827,Wayne Enterprises,South America,Finance,Closed Won,High,36,95157,2023-9-25,Upsell,Jane Smith,Service Cloud,Negotiation
+OPP_828,Opportunity 828,Wayne Enterprises,APAC,Healthcare,Pending,High,31,88565,2024-7-18,Cross-sell,Jane Smith,Service Cloud,Qualification
+OPP_829,Opportunity 829,LexCorp,EMEA,Retail,New,Medium,59,23416,2024-10-23,Cross-sell,John Doe,Service Cloud,Qualification
+OPP_830,Opportunity 830,Wayne Enterprises,South America,Technology,Pending,Low,67,83976,2023-5-13,New Business,Michael Jones,Service Cloud,Proposal/Quote
+OPP_831,Opportunity 831,Litware Inc,APAC,Healthcare,Closed Won,Medium,81,36277,2023-8-25,New Business,John Doe,Service Cloud,Qualification
+OPP_832,Opportunity 832,LexCorp,EMEA,Healthcare,Pending,High,22,39962,2024-7-19,New Business,Michael Jones,Salesforce,Closed Won
+OPP_833,Opportunity 833,LexCorp,North America,Retail,Closed Lost,High,23,73828,2024-10-10,New Business,John Doe,Service Cloud,Qualification
+OPP_834,Opportunity 834,LexCorp,APAC,Technology,Closed Won,Low,34,3269,2024-2-28,New Business,Michael Jones,Salesforce,Qualification
+OPP_835,Opportunity 835,Litware Inc,EMEA,Finance,Closed Lost,High,23,66870,2024-3-9,Cross-sell,Jane Smith,Salesforce,Closed Won
+OPP_836,Opportunity 836,Acme Corp,South America,Technology,New,Low,21,49810,2023-6-5,Cross-sell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_837,Opportunity 837,Wayne Enterprises,EMEA,Technology,Pending,High,36,85967,2023-6-1,New Business,John Doe,Marketing Cloud,Closed Lost
+OPP_838,Opportunity 838,LexCorp,South America,Retail,Pending,Medium,74,40829,2024-10-15,Upsell,John Doe,Salesforce,Closed Won
+OPP_839,Opportunity 839,Litware Inc,North America,Retail,New,High,63,11812,2023-4-3,Upsell,John Doe,Marketing Cloud,Closed Won
+OPP_840,Opportunity 840,Litware Inc,South America,Technology,New,Medium,26,80246,2023-2-3,Cross-sell,Jane Smith,Marketing Cloud,Qualification
+OPP_841,Opportunity 841,LexCorp,APAC,Finance,Pending,High,47,36236,2023-2-26,Cross-sell,Michael Jones,Service Cloud,Proposal/Quote
+OPP_842,Opportunity 842,LexCorp,South America,Healthcare,New,Medium,37,81461,2023-9-23,Upsell,Jane Smith,Service Cloud,Negotiation
+OPP_843,Opportunity 843,Litware Inc,North America,Healthcare,Pending,Medium,67,12450,2024-7-5,Cross-sell,Jane Smith,Salesforce,Proposal/Quote
+OPP_844,Opportunity 844,LexCorp,South America,Technology,New,Medium,88,86356,2023-1-10,Cross-sell,John Doe,Marketing Cloud,Negotiation
+OPP_845,Opportunity 845,Litware Inc,North America,Finance,New,Low,60,59627,2023-10-6,Upsell,John Doe,Salesforce,Qualification
+OPP_846,Opportunity 846,Wayne Enterprises,APAC,Technology,Closed Won,Low,42,59826,2023-9-3,Cross-sell,Michael Jones,Salesforce,Qualification
+OPP_847,Opportunity 847,Wayne Enterprises,North America,Technology,Closed Won,High,22,54054,2024-3-16,Upsell,John Doe,Service Cloud,Proposal/Quote
+OPP_848,Opportunity 848,Acme Corp,EMEA,Retail,Closed Won,Low,52,60071,2023-8-4,Cross-sell,Michael Jones,Marketing Cloud,Negotiation
+OPP_849,Opportunity 849,Litware Inc,North America,Retail,Closed Lost,High,75,57557,2024-5-6,Upsell,Michael Jones,Service Cloud,Proposal/Quote
+OPP_850,Opportunity 850,Acme Corp,APAC,Technology,New,Medium,28,71157,2023-8-6,Cross-sell,Jane Smith,Service Cloud,Negotiation
+OPP_851,Opportunity 851,Acme Corp,EMEA,Finance,Closed Won,High,22,64244,2024-8-4,Cross-sell,John Doe,Marketing Cloud,Negotiation
+OPP_852,Opportunity 852,Acme Corp,EMEA,Retail,Closed Won,High,54,30364,2023-1-16,Cross-sell,Jane Smith,Salesforce,Negotiation
+OPP_853,Opportunity 853,Acme Corp,APAC,Healthcare,New,Medium,33,61065,2024-3-1,Cross-sell,John Doe,Salesforce,Closed Lost
+OPP_854,Opportunity 854,Litware Inc,South America,Retail,Pending,Low,43,77914,2024-2-11,New Business,John Doe,Salesforce,Closed Lost
+OPP_855,Opportunity 855,Wayne Enterprises,EMEA,Finance,Closed Lost,Medium,23,79402,2023-7-17,Cross-sell,Jane Smith,Marketing Cloud,Qualification
+OPP_856,Opportunity 856,Litware Inc,EMEA,Healthcare,Closed Won,Medium,76,80853,2023-5-6,Cross-sell,Jane Smith,Salesforce,Proposal/Quote
+OPP_857,Opportunity 857,LexCorp,APAC,Technology,Closed Lost,Low,89,91794,2024-3-22,New Business,John Doe,Salesforce,Negotiation
+OPP_858,Opportunity 858,Wayne Enterprises,EMEA,Retail,Closed Lost,High,69,38499,2024-6-21,New Business,Jane Smith,Marketing Cloud,Closed Won
+OPP_859,Opportunity 859,Acme Corp,APAC,Finance,New,Low,84,69004,2024-6-5,New Business,John Doe,Salesforce,Proposal/Quote
+OPP_860,Opportunity 860,LexCorp,EMEA,Finance,New,Medium,47,32238,2024-8-17,Cross-sell,Jane Smith,Service Cloud,Qualification
+OPP_861,Opportunity 861,LexCorp,North America,Healthcare,Closed Lost,Low,77,55336,2023-8-1,Upsell,Jane Smith,Salesforce,Proposal/Quote
+OPP_862,Opportunity 862,LexCorp,APAC,Healthcare,New,Medium,20,46225,2023-2-22,Upsell,Michael Jones,Salesforce,Negotiation
+OPP_863,Opportunity 863,Acme Corp,APAC,Finance,Closed Lost,High,81,35278,2024-1-5,Cross-sell,Jane Smith,Salesforce,Closed Won
+OPP_864,Opportunity 864,LexCorp,APAC,Retail,Closed Won,High,40,54907,2023-4-15,Cross-sell,John Doe,Salesforce,Qualification
+OPP_865,Opportunity 865,Litware Inc,North America,Retail,Closed Lost,Medium,70,64846,2024-11-18,Upsell,John Doe,Service Cloud,Qualification
+OPP_866,Opportunity 866,LexCorp,South America,Retail,New,Medium,90,8272,2023-5-20,Upsell,John Doe,Salesforce,Closed Lost
+OPP_867,Opportunity 867,Litware Inc,EMEA,Technology,Closed Lost,Medium,84,51097,2024-8-17,Cross-sell,John Doe,Service Cloud,Closed Won
+OPP_868,Opportunity 868,Acme Corp,South America,Technology,Closed Lost,Low,55,91221,2024-1-7,New Business,Michael Jones,Salesforce,Qualification
+OPP_869,Opportunity 869,Wayne Enterprises,APAC,Retail,Closed Won,Medium,89,25773,2024-12-21,Cross-sell,Jane Smith,Salesforce,Qualification
+OPP_870,Opportunity 870,Acme Corp,North America,Retail,Pending,Medium,32,82480,2023-9-13,Upsell,John Doe,Service Cloud,Qualification
+OPP_871,Opportunity 871,Litware Inc,South America,Healthcare,Pending,Medium,84,76826,2024-11-1,Cross-sell,John Doe,Salesforce,Closed Lost
+OPP_872,Opportunity 872,Acme Corp,South America,Finance,Pending,Low,81,93473,2024-3-15,Cross-sell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_873,Opportunity 873,Litware Inc,South America,Finance,Closed Lost,Medium,70,8969,2024-10-18,New Business,John Doe,Salesforce,Closed Lost
+OPP_874,Opportunity 874,LexCorp,North America,Retail,Pending,Medium,29,24916,2023-9-8,Upsell,Jane Smith,Service Cloud,Proposal/Quote
+OPP_875,Opportunity 875,Acme Corp,South America,Healthcare,Pending,Low,49,74367,2023-10-18,New Business,Jane Smith,Marketing Cloud,Negotiation
+OPP_876,Opportunity 876,LexCorp,EMEA,Finance,Closed Lost,Low,74,60113,2023-4-1,Upsell,Michael Jones,Salesforce,Proposal/Quote
+OPP_877,Opportunity 877,Litware Inc,APAC,Healthcare,Pending,Medium,82,79933,2023-12-24,Cross-sell,Jane Smith,Service Cloud,Closed Lost
+OPP_878,Opportunity 878,Litware Inc,South America,Retail,New,High,33,1176,2024-12-7,Cross-sell,John Doe,Service Cloud,Closed Won
+OPP_879,Opportunity 879,Wayne Enterprises,North America,Healthcare,Closed Won,Low,40,96175,2023-10-26,Cross-sell,Michael Jones,Marketing Cloud,Qualification
+OPP_880,Opportunity 880,LexCorp,EMEA,Healthcare,New,High,46,37457,2023-1-11,Upsell,Michael Jones,Service Cloud,Negotiation
+OPP_881,Opportunity 881,Wayne Enterprises,South America,Healthcare,New,High,38,26555,2024-2-10,Upsell,Michael Jones,Salesforce,Qualification
+OPP_882,Opportunity 882,Litware Inc,APAC,Retail,New,High,38,98274,2023-5-13,New Business,Jane Smith,Service Cloud,Proposal/Quote
+OPP_883,Opportunity 883,Acme Corp,South America,Finance,Closed Lost,Low,77,14349,2023-11-3,Upsell,John Doe,Salesforce,Closed Lost
+OPP_884,Opportunity 884,Litware Inc,APAC,Healthcare,Pending,Low,81,10953,2023-7-23,Cross-sell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_885,Opportunity 885,Wayne Enterprises,APAC,Retail,Closed Lost,Low,51,70091,2024-9-7,Cross-sell,Jane Smith,Salesforce,Qualification
+OPP_886,Opportunity 886,LexCorp,APAC,Finance,Closed Won,High,24,2027,2024-9-8,Upsell,Michael Jones,Marketing Cloud,Closed Won
+OPP_887,Opportunity 887,Acme Corp,South America,Healthcare,Closed Won,Low,64,91114,2023-10-3,Upsell,John Doe,Salesforce,Negotiation
+OPP_888,Opportunity 888,Acme Corp,APAC,Finance,Pending,Low,52,52119,2024-10-2,Cross-sell,John Doe,Salesforce,Closed Lost
+OPP_889,Opportunity 889,Wayne Enterprises,APAC,Retail,Pending,Medium,29,35922,2023-2-17,Cross-sell,Jane Smith,Service Cloud,Negotiation
+OPP_890,Opportunity 890,Litware Inc,EMEA,Retail,New,High,35,11585,2024-9-15,New Business,Michael Jones,Salesforce,Closed Won
+OPP_891,Opportunity 891,Acme Corp,EMEA,Finance,Pending,High,67,74745,2023-8-14,Upsell,Michael Jones,Marketing Cloud,Qualification
+OPP_892,Opportunity 892,Wayne Enterprises,North America,Retail,Pending,High,20,87831,2023-10-7,Cross-sell,Jane Smith,Salesforce,Qualification
+OPP_893,Opportunity 893,Wayne Enterprises,APAC,Technology,Pending,High,90,7986,2023-3-24,Cross-sell,John Doe,Salesforce,Closed Won
+OPP_894,Opportunity 894,Wayne Enterprises,North America,Retail,New,Medium,67,88376,2023-11-23,Upsell,John Doe,Salesforce,Proposal/Quote
+OPP_895,Opportunity 895,Wayne Enterprises,EMEA,Retail,Closed Won,High,82,55935,2024-2-17,Cross-sell,Jane Smith,Service Cloud,Closed Lost
+OPP_896,Opportunity 896,Litware Inc,APAC,Retail,Closed Won,Medium,60,78140,2023-11-22,Upsell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_897,Opportunity 897,Wayne Enterprises,APAC,Technology,Closed Won,High,32,12852,2024-4-18,New Business,John Doe,Marketing Cloud,Closed Won
+OPP_898,Opportunity 898,Acme Corp,APAC,Retail,New,Low,51,88900,2024-4-20,Upsell,Jane Smith,Salesforce,Closed Lost
+OPP_899,Opportunity 899,Wayne Enterprises,EMEA,Finance,Pending,Low,76,65042,2024-10-9,Upsell,Jane Smith,Salesforce,Negotiation
+OPP_900,Opportunity 900,Litware Inc,APAC,Technology,New,High,85,6531,2024-9-15,Cross-sell,John Doe,Marketing Cloud,Negotiation
+OPP_901,Opportunity 901,Acme Corp,South America,Retail,Closed Lost,High,30,66280,2023-5-19,Upsell,Jane Smith,Service Cloud,Closed Lost
+OPP_902,Opportunity 902,Wayne Enterprises,APAC,Healthcare,Closed Lost,Low,89,87117,2024-1-14,New Business,Michael Jones,Marketing Cloud,Negotiation
+OPP_903,Opportunity 903,LexCorp,North America,Retail,New,Low,75,1494,2023-3-4,New Business,Jane Smith,Service Cloud,Closed Won
+OPP_904,Opportunity 904,Acme Corp,EMEA,Technology,Closed Won,Low,35,94526,2024-1-7,New Business,Jane Smith,Service Cloud,Negotiation
+OPP_905,Opportunity 905,Litware Inc,APAC,Retail,New,Low,56,78965,2024-4-28,New Business,John Doe,Salesforce,Closed Won
+OPP_906,Opportunity 906,Acme Corp,EMEA,Finance,New,Medium,61,39621,2023-2-9,New Business,Jane Smith,Service Cloud,Qualification
+OPP_907,Opportunity 907,Litware Inc,APAC,Retail,Closed Won,Low,80,22757,2023-1-8,Upsell,John Doe,Marketing Cloud,Qualification
+OPP_908,Opportunity 908,Acme Corp,APAC,Retail,Closed Won,Medium,72,34989,2023-12-16,Cross-sell,Michael Jones,Marketing Cloud,Closed Won
+OPP_909,Opportunity 909,Litware Inc,APAC,Healthcare,New,Medium,45,67385,2023-7-18,Upsell,Michael Jones,Service Cloud,Proposal/Quote
+OPP_910,Opportunity 910,Litware Inc,South America,Healthcare,Closed Lost,Medium,82,80594,2024-7-23,New Business,Jane Smith,Salesforce,Closed Won
+OPP_911,Opportunity 911,Litware Inc,North America,Healthcare,New,Medium,50,94087,2023-12-5,Upsell,Jane Smith,Service Cloud,Qualification
+OPP_912,Opportunity 912,Litware Inc,APAC,Healthcare,Closed Won,Medium,59,56007,2023-7-7,Upsell,John Doe,Marketing Cloud,Closed Won
+OPP_913,Opportunity 913,Litware Inc,South America,Healthcare,Pending,High,85,33196,2024-3-27,Upsell,Jane Smith,Marketing Cloud,Closed Won
+OPP_914,Opportunity 914,LexCorp,EMEA,Healthcare,Closed Won,Medium,87,42947,2024-5-4,Cross-sell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_915,Opportunity 915,Litware Inc,North America,Healthcare,Closed Won,Low,45,70824,2023-3-5,Upsell,John Doe,Service Cloud,Closed Lost
+OPP_916,Opportunity 916,Litware Inc,APAC,Finance,New,Medium,84,79508,2023-10-18,New Business,John Doe,Marketing Cloud,Negotiation
+OPP_917,Opportunity 917,Litware Inc,APAC,Finance,Closed Lost,Low,81,93072,2024-5-15,Cross-sell,John Doe,Service Cloud,Proposal/Quote
+OPP_918,Opportunity 918,Wayne Enterprises,EMEA,Technology,Closed Lost,Medium,70,26887,2023-12-22,Cross-sell,Jane Smith,Service Cloud,Negotiation
+OPP_919,Opportunity 919,LexCorp,EMEA,Healthcare,Pending,Low,90,80483,2023-4-7,Cross-sell,Jane Smith,Marketing Cloud,Negotiation
+OPP_920,Opportunity 920,Litware Inc,EMEA,Technology,Closed Won,High,63,61782,2024-6-13,New Business,John Doe,Salesforce,Closed Lost
+OPP_921,Opportunity 921,LexCorp,North America,Technology,Pending,Medium,61,42901,2023-6-23,New Business,Jane Smith,Salesforce,Closed Won
+OPP_922,Opportunity 922,Wayne Enterprises,EMEA,Healthcare,Pending,High,64,77096,2024-10-1,Cross-sell,Jane Smith,Service Cloud,Proposal/Quote
+OPP_923,Opportunity 923,Litware Inc,APAC,Retail,Pending,High,55,86149,2024-5-18,Upsell,Jane Smith,Marketing Cloud,Closed Won
+OPP_924,Opportunity 924,Wayne Enterprises,APAC,Retail,Closed Won,Low,81,53534,2024-12-26,Upsell,John Doe,Service Cloud,Proposal/Quote
+OPP_925,Opportunity 925,Wayne Enterprises,South America,Retail,Closed Lost,Medium,80,7128,2023-3-8,Upsell,Jane Smith,Service Cloud,Proposal/Quote
+OPP_926,Opportunity 926,Acme Corp,APAC,Retail,Pending,High,78,18875,2023-9-20,Upsell,Michael Jones,Marketing Cloud,Closed Won
+OPP_927,Opportunity 927,LexCorp,South America,Retail,Pending,Medium,51,5347,2024-1-8,Upsell,Michael Jones,Marketing Cloud,Closed Won
+OPP_928,Opportunity 928,Acme Corp,APAC,Finance,Closed Won,High,84,90046,2023-8-5,New Business,John Doe,Marketing Cloud,Closed Lost
+OPP_929,Opportunity 929,Wayne Enterprises,South America,Technology,Pending,Medium,52,40310,2024-8-17,New Business,John Doe,Salesforce,Proposal/Quote
+OPP_930,Opportunity 930,LexCorp,APAC,Technology,Pending,High,85,23559,2023-8-26,New Business,John Doe,Salesforce,Negotiation
+OPP_931,Opportunity 931,Litware Inc,South America,Retail,Closed Won,Medium,20,38860,2023-6-6,Upsell,Michael Jones,Marketing Cloud,Closed Won
+OPP_932,Opportunity 932,Wayne Enterprises,South America,Healthcare,Closed Won,Medium,42,7820,2023-2-10,New Business,John Doe,Salesforce,Qualification
+OPP_933,Opportunity 933,LexCorp,EMEA,Technology,Closed Lost,High,62,90255,2024-9-19,Upsell,Michael Jones,Salesforce,Qualification
+OPP_934,Opportunity 934,LexCorp,APAC,Healthcare,Pending,Low,83,89256,2024-12-2,Upsell,Michael Jones,Service Cloud,Negotiation
+OPP_935,Opportunity 935,Wayne Enterprises,APAC,Healthcare,Closed Lost,High,22,84292,2024-6-18,Upsell,John Doe,Salesforce,Closed Won
+OPP_936,Opportunity 936,Litware Inc,North America,Healthcare,New,Medium,68,34123,2023-6-7,Cross-sell,Michael Jones,Marketing Cloud,Closed Won
+OPP_937,Opportunity 937,Litware Inc,APAC,Technology,New,Low,78,57859,2024-9-8,Upsell,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_938,Opportunity 938,LexCorp,North America,Finance,Closed Lost,High,56,4549,2023-1-11,Cross-sell,Jane Smith,Service Cloud,Closed Won
+OPP_939,Opportunity 939,Litware Inc,EMEA,Retail,Closed Won,Medium,55,63410,2023-10-7,Cross-sell,Jane Smith,Salesforce,Qualification
+OPP_940,Opportunity 940,LexCorp,South America,Technology,Closed Lost,Medium,51,67415,2024-6-25,Upsell,John Doe,Salesforce,Negotiation
+OPP_941,Opportunity 941,Litware Inc,South America,Technology,Pending,Medium,83,2380,2023-7-17,Cross-sell,Michael Jones,Service Cloud,Closed Won
+OPP_942,Opportunity 942,LexCorp,South America,Technology,Closed Won,Low,45,50223,2024-1-14,Cross-sell,John Doe,Salesforce,Qualification
+OPP_943,Opportunity 943,Wayne Enterprises,APAC,Technology,Closed Lost,Medium,60,8256,2024-8-11,Cross-sell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_944,Opportunity 944,Acme Corp,South America,Retail,New,High,68,29064,2024-6-22,New Business,Jane Smith,Service Cloud,Qualification
+OPP_945,Opportunity 945,Wayne Enterprises,North America,Healthcare,Pending,Low,61,22710,2023-8-12,New Business,John Doe,Service Cloud,Qualification
+OPP_946,Opportunity 946,LexCorp,South America,Finance,Pending,Low,48,76178,2024-8-1,Upsell,Jane Smith,Salesforce,Qualification
+OPP_947,Opportunity 947,Acme Corp,North America,Technology,Closed Won,High,55,37162,2024-4-15,Cross-sell,Jane Smith,Salesforce,Closed Lost
+OPP_948,Opportunity 948,Litware Inc,EMEA,Finance,Pending,Low,65,76118,2023-11-9,Upsell,Michael Jones,Salesforce,Closed Won
+OPP_949,Opportunity 949,Wayne Enterprises,North America,Finance,Pending,Low,57,12522,2023-2-13,Upsell,John Doe,Salesforce,Closed Won
+OPP_950,Opportunity 950,Litware Inc,South America,Technology,New,High,73,46724,2023-8-25,Upsell,John Doe,Salesforce,Negotiation
+OPP_951,Opportunity 951,Acme Corp,North America,Retail,Closed Lost,Medium,57,73419,2024-7-11,Cross-sell,Michael Jones,Marketing Cloud,Negotiation
+OPP_952,Opportunity 952,Wayne Enterprises,North America,Technology,Closed Won,High,54,47725,2023-4-13,Cross-sell,Jane Smith,Marketing Cloud,Negotiation
+OPP_953,Opportunity 953,Wayne Enterprises,EMEA,Finance,Closed Lost,Medium,44,96110,2023-3-25,Cross-sell,Jane Smith,Marketing Cloud,Closed Won
+OPP_954,Opportunity 954,LexCorp,APAC,Healthcare,Closed Lost,High,79,66358,2024-7-11,Upsell,Jane Smith,Service Cloud,Proposal/Quote
+OPP_955,Opportunity 955,Acme Corp,South America,Healthcare,New,High,53,94525,2023-6-12,Upsell,Michael Jones,Marketing Cloud,Negotiation
+OPP_956,Opportunity 956,Litware Inc,EMEA,Finance,Closed Lost,Low,75,49735,2024-12-1,New Business,John Doe,Service Cloud,Closed Won
+OPP_957,Opportunity 957,LexCorp,South America,Technology,Closed Won,Low,43,11804,2023-8-13,New Business,Jane Smith,Service Cloud,Closed Won
+OPP_958,Opportunity 958,Acme Corp,North America,Healthcare,Closed Won,Low,24,6764,2023-5-27,New Business,John Doe,Salesforce,Qualification
+OPP_959,Opportunity 959,Wayne Enterprises,APAC,Retail,Closed Won,High,65,20463,2024-3-12,Cross-sell,John Doe,Service Cloud,Proposal/Quote
+OPP_960,Opportunity 960,Acme Corp,EMEA,Finance,Closed Lost,High,79,38096,2024-5-26,Cross-sell,Michael Jones,Service Cloud,Negotiation
+OPP_961,Opportunity 961,Litware Inc,North America,Technology,Closed Lost,High,27,18987,2023-3-5,Upsell,John Doe,Salesforce,Closed Won
+OPP_962,Opportunity 962,Wayne Enterprises,South America,Finance,Closed Lost,Low,51,19079,2023-6-26,Upsell,Jane Smith,Salesforce,Qualification
+OPP_963,Opportunity 963,Wayne Enterprises,APAC,Finance,Closed Lost,High,86,69182,2023-5-2,Cross-sell,John Doe,Service Cloud,Negotiation
+OPP_964,Opportunity 964,LexCorp,APAC,Finance,Pending,High,63,15743,2023-5-24,Upsell,Michael Jones,Salesforce,Proposal/Quote
+OPP_965,Opportunity 965,Litware Inc,APAC,Finance,Closed Won,High,86,75244,2024-1-3,Cross-sell,Michael Jones,Salesforce,Negotiation
+OPP_966,Opportunity 966,LexCorp,EMEA,Retail,Pending,High,47,21582,2023-5-10,Cross-sell,Jane Smith,Service Cloud,Negotiation
+OPP_967,Opportunity 967,Litware Inc,APAC,Retail,Pending,Medium,48,44176,2024-3-1,Cross-sell,Michael Jones,Service Cloud,Negotiation
+OPP_968,Opportunity 968,Litware Inc,APAC,Retail,Closed Lost,Low,36,71191,2023-5-25,Cross-sell,Jane Smith,Salesforce,Qualification
+OPP_969,Opportunity 969,Litware Inc,APAC,Retail,Pending,Low,32,44880,2023-4-1,Cross-sell,Jane Smith,Salesforce,Negotiation
+OPP_970,Opportunity 970,Litware Inc,North America,Technology,New,High,90,91464,2023-2-7,New Business,John Doe,Service Cloud,Closed Lost
+OPP_971,Opportunity 971,Litware Inc,EMEA,Retail,Closed Lost,High,53,39197,2024-7-16,New Business,Michael Jones,Salesforce,Closed Won
+OPP_972,Opportunity 972,Wayne Enterprises,APAC,Finance,New,Medium,75,44357,2024-1-9,New Business,Michael Jones,Salesforce,Closed Lost
+OPP_973,Opportunity 973,Acme Corp,North America,Healthcare,Closed Lost,Low,54,46926,2024-10-16,New Business,Michael Jones,Salesforce,Negotiation
+OPP_974,Opportunity 974,LexCorp,South America,Technology,Closed Lost,High,29,30027,2023-10-26,Cross-sell,John Doe,Marketing Cloud,Qualification
+OPP_975,Opportunity 975,LexCorp,APAC,Finance,Closed Won,Medium,38,60289,2023-9-9,Cross-sell,John Doe,Marketing Cloud,Negotiation
+OPP_976,Opportunity 976,Litware Inc,EMEA,Technology,New,Low,23,62554,2023-10-2,New Business,Jane Smith,Salesforce,Closed Lost
+OPP_977,Opportunity 977,Litware Inc,South America,Retail,New,Medium,50,84284,2023-6-11,Cross-sell,Michael Jones,Marketing Cloud,Proposal/Quote
+OPP_978,Opportunity 978,LexCorp,South America,Healthcare,Closed Lost,Medium,83,16900,2023-8-25,Upsell,Jane Smith,Salesforce,Closed Won
+OPP_979,Opportunity 979,Acme Corp,APAC,Technology,Closed Won,Medium,21,94453,2024-4-3,New Business,Michael Jones,Salesforce,Closed Won
+OPP_980,Opportunity 980,Acme Corp,APAC,Technology,New,High,52,94710,2023-3-25,New Business,Michael Jones,Marketing Cloud,Negotiation
+OPP_981,Opportunity 981,Litware Inc,EMEA,Healthcare,Closed Won,Low,23,14625,2023-4-4,Upsell,Michael Jones,Service Cloud,Closed Lost
+OPP_982,Opportunity 982,Acme Corp,North America,Healthcare,Pending,Low,68,44472,2023-12-23,Cross-sell,Michael Jones,Salesforce,Qualification
+OPP_983,Opportunity 983,Acme Corp,APAC,Healthcare,Pending,Low,52,34582,2023-5-15,New Business,Jane Smith,Marketing Cloud,Proposal/Quote
+OPP_984,Opportunity 984,Acme Corp,South America,Technology,Closed Lost,High,78,40258,2024-12-10,Upsell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_985,Opportunity 985,LexCorp,North America,Healthcare,Closed Lost,High,34,46408,2023-1-3,Cross-sell,John Doe,Marketing Cloud,Closed Lost
+OPP_986,Opportunity 986,LexCorp,APAC,Finance,New,High,44,98855,2023-4-9,New Business,Michael Jones,Marketing Cloud,Negotiation
+OPP_987,Opportunity 987,LexCorp,APAC,Technology,New,High,38,19994,2024-10-17,Upsell,Jane Smith,Marketing Cloud,Qualification
+OPP_988,Opportunity 988,Litware Inc,South America,Finance,Closed Won,Medium,32,50483,2024-4-1,Upsell,Jane Smith,Service Cloud,Proposal/Quote
+OPP_989,Opportunity 989,Acme Corp,North America,Retail,Closed Lost,Medium,86,18758,2023-6-9,Cross-sell,John Doe,Salesforce,Closed Won
+OPP_990,Opportunity 990,Wayne Enterprises,EMEA,Finance,New,Low,21,2341,2024-4-13,Upsell,Jane Smith,Service Cloud,Closed Lost
+OPP_991,Opportunity 991,Wayne Enterprises,APAC,Healthcare,Pending,High,20,37525,2024-9-1,Upsell,John Doe,Salesforce,Closed Won
+OPP_992,Opportunity 992,Wayne Enterprises,South America,Healthcare,Pending,High,77,1357,2024-9-19,New Business,Jane Smith,Salesforce,Qualification
+OPP_993,Opportunity 993,Acme Corp,APAC,Healthcare,Closed Won,Medium,35,68850,2024-3-21,New Business,John Doe,Service Cloud,Qualification
+OPP_994,Opportunity 994,Litware Inc,APAC,Healthcare,Closed Won,Low,70,3445,2023-11-3,Cross-sell,Jane Smith,Service Cloud,Closed Lost
+OPP_995,Opportunity 995,Litware Inc,South America,Healthcare,Closed Won,High,53,43059,2023-4-6,Upsell,Jane Smith,Service Cloud,Closed Won
+OPP_996,Opportunity 996,Wayne Enterprises,EMEA,Healthcare,Pending,Medium,42,30028,2024-3-23,Upsell,John Doe,Marketing Cloud,Qualification
+OPP_997,Opportunity 997,LexCorp,South America,Retail,New,High,89,96417,2024-9-11,New Business,John Doe,Marketing Cloud,Negotiation
+OPP_998,Opportunity 998,Acme Corp,South America,Healthcare,Closed Lost,Low,26,63718,2024-3-10,Cross-sell,John Doe,Service Cloud,Proposal/Quote
+OPP_999,Opportunity 999,Acme Corp,APAC,Retail,Pending,Medium,84,52399,2024-4-24,Cross-sell,Michael Jones,Marketing Cloud,Closed Lost
+OPP_1000,Opportunity 1000,LexCorp,APAC,Healthcare,Closed Won,Medium,78,17031,2024-6-28,Cross-sell,Jane Smith,Marketing Cloud,Negotiation
